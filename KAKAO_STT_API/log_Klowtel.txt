@@ -1,0 +1,2013 @@
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023423/0005.wav
+Reference: 예 금 저 3만 8000원 입금했어요. 금방.
+Prediction: 네 근데 3만8000원 입금했어요 금방
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023436/0010.wav
+Reference: 예 오늘 도착을 해서 다음 주 화요일에 아마 제가 수령을 할 수 있도록 여기 도착할 것 같은데 제가 다음 주 월요일에 휴가를 가야 돼서.
+Prediction: 오늘 도착을 해서 다음주 화요일 아마 제가 수령을 할 수 있도록 여기에 도착 할 것 같은데 제가 다음주 월요일에 휴가를 가야 돼서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023510/0007.wav
+Reference: 그 제가 메일 주소 하나 보내 드릴게요. 그래서 메일 주소로.
+Prediction: 그 제가 메일주소 하나 보내드릴게요 그래서 메일 주소로
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023585/0006.wav
+Reference: 저희가 교재 출고되는 데는.
+Prediction: 저희가 교재 출고되는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038556/0009.wav
+Reference: 네 실례지만 자택 주소는 어떻게 되십니까? 소요될 수 있는 점 참고 부탁드리겠습니다.
+Prediction: 네 실례지만 자택 주소 어떻게 되십니까 소요될 수 있는 점 참고 부탁드리겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023489/0001.wav
+Reference: 학습 지원 센터입니다. 무엇을 도와드릴까요?
+Prediction: 지원 센터입니다 무엇을 도와드릴까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023598/0010.wav
+Reference: 네 아 예 알겠습니다.
+Prediction: 예 아 예예 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023582/0010.wav
+Reference: 새로 저희 도로 보내는 거니까 반송 말고 새로 보낸 거라고 말씀을 하세요.
+Prediction: 새로 저희 쪽으로 보내는 거니까 그 방송 말고 새로 보낸 거라고 말씀을 하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038643/0001.wav
+Reference: 아 제가 취소 부탁드렸는데 그.
+Prediction: 아 제가 취소 부탁드렸는데 그
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023425/0027.wav
+Reference: 그러시면 저희 거기 반송 주소가 있습니다. 반송 주소로 저희 쪽으로 선불 반송해 주시면 되고요.
+Prediction: 그러시면 저희 반송 주소가 있습니다 반송 주소로 저희 쪽으로 선불 반송해 주시면 되고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038607/0005.wav
+Reference: 다시 결제를 해야 되고 왜냐면 이거 교재권을 같이 사야될지 결정도 해야 되고 해가지고.
+Prediction: 다시 결제를 해야 되고 왜냐면 이거 교재 건으로 같이 살 지 결정도 해야 되고 해가지고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038641/0016.wav
+Reference: 아 네 사용 안 했어요.
+Prediction: 아 네 사용 안 했어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023473/0044.wav
+Reference: 회원님 그러시면 일단 재발송을 도와드릴게요. 그래서 아까 말씀드린 재발송 받을 주소지랑 연락처 동일하게 파손 교재는
+Prediction: 네 네 그러시면 일단 재발송을 도와드릴게요 그래서 아까 말씀드린 재발송 받을 주소지랑 연락처 동일하게 파손 교재는
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038421/0035.wav
+Reference: 네 회원님 그 저희가 오늘 내로 그 연락 빠르게 오면 저희가 빠르게 오는 대로 바로 연락드리도록 하겠습니다. 회원님.
+Prediction: 네 회원님 그럼 저희가 오늘 내로 그 네 연락 빠르게 오면 저희가 빠르게 오는 대로 바로 연락드리도록 하겠습니다 회원님
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038361/0023.wav
+Reference: 음 저 죄송한데 네 계좌로
+Prediction: 죄송한데 계좌로
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038361/0030.wav
+Reference: 음 그러면 네 내일이라도 최대한 빨리 이거 메모에 넣어가지고 보내면 된다는 말씀이시죠?
+Prediction: 음 그러면 그
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038438/0001.wav
+Reference: 교과서를 어 잘못 배송받았는데
+Prediction: 핫 오늘이 네 잘못 배송 받았는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038661/0022.wav
+Reference: 이거는 선생님께서.
+Prediction: 이번에 선생님께서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038371/0030.wav
+Reference: 네네. 혹시 그거 재결제 좀 아 이제 결제 좀 해 주시겠어요? 결제해 주시고 저한테 말씀 부탁드릴게요.
+Prediction: 네 네 혹시 그거 재결제 좀 이제 결제 좀 해주시겠어요 결제해 주시고 저한테 말씀 부탁드릴게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023606/0010.wav
+Reference: 담당 부서 쪽에 확인이 필요하다고 해요.
+Prediction: 담당 부서 쪽에 확인이 필요하다고 해요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038695/0067.wav
+Reference: 그러니까 제가 그냥 저를 이제 그만 신경 써줬으면 좋겠어요. 아 그니까 어차피 그만 신경 써줬다 해도 그런 적이 없다고 나오실 게 뻔하긴 한데요.
+Prediction: 그러니깐 제가 그냥 저는 이제 그만 신경 써줬으면 좋겠어요 그니까 어차피 그만 신경 써줬다 해도 그런 적이 없다고 나올 뻔 하긴 한데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038434/0028.wav
+Reference: 어 카드사에서는 모르고 거기다 꼭 전화를 다시 이게 계속 핑퐁을 치시더라고요.
+Prediction: 아 이 카드사에서는 모르고 거기다 꼭 전화를 다시 계속 핑퐁을 치시더라고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038353/0004.wav
+Reference: 아 이게 그 뭐라 해야 되지 기한이 있는 줄 몰랐는데 아 그건 몰랐어가지고 예.
+Prediction: 아 이게 그 거래 기간이 있는지 몰랐는데 그거 몰랐어가지구 예
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038621/0004.wav
+Reference: 네 네 네 알겠습니다.
+Prediction: 네 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038355/0012.wav
+Reference: 어 다른 방법이요?
+Prediction: 어 다른 방법이요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023492/0017.wav
+Reference: 아 아 그럼 냅둬 주세요. 제가 학원으로 연락을 드릴게요. 그럼
+Prediction: 어 그럼 학원으로 연락을 드릴게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038498/0019.wav
+Reference: 그건데 어 잠시만요. 어 혹시 이 강좌를 그때
+Prediction: 그건데 잠시만요 혹시 이 강좌를 그 때
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038495/0008.wav
+Reference: 아 그럼 받은 다음에 반품은 가능한가요?
+Prediction: 아 그럼 받은 다음에 반품은 가능한가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038405/0011.wav
+Reference: 제가 직접 가서 해야 되는 건가요?
+Prediction: 제가 직접 가서 해야 되는 건가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038423/0016.wav
+Reference: 네 근데 그걸 비닐 뜯어버렸거든요?
+Prediction: 네 근데 그 걸 비닐 뜯어져 버렸거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038419/0014.wav
+Reference: 그러면 일단 현금 정보 확인 먼저 하고 환불 진행 도와드릴 건데요. 감사드리고요 네.
+Prediction: 그러면 일단 현금 정보 확인 먼저 하고 환불 진행 도와드릴건 데요 감사드리고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023466/0001.wav
+Reference: 배송조회를 하고 싶은데요.
+Prediction: 신청하고 싶은데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038359/0030.wav
+Reference: 아 그리고 다른 강좌 새로운 강좌 주문하면
+Prediction: 아 그리고 다른 강좌 새로운 강좌 주문하면
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023559/0005.wav
+Reference: 잠시만 기다려주세요.
+Prediction: 네 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038662/0014.wav
+Reference: 아니요. 그냥 교재 캐시가 있기 때문에 교캐 캐시 그니까 그거는 보시고 그냥 결제해주시면 돼요.
+Prediction: 아니요 그냥 교재 캐시가 있기 때문에 교재 캐시 그거는 보시고 그냥 결제해 주시면 돼요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023505/0045.wav
+Reference: 하신 다음에 지금 저한테 연락을 주신다는 이야기인가.
+Prediction: 하신 다음에 지금 저한테 연락을 주신다는 이야기인가
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038446/0008.wav
+Reference: 치면 되거든요.
+Prediction: 치면 되거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038544/0014.wav
+Reference: 아니요. 없어요.
+Prediction: 아니요 없어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023469/0042.wav
+Reference: 빠른 배송이요?
+Prediction: 빠른 배송이요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023503/0023.wav
+Reference: 어머니 그러면 로그인 먼저 해 주셨을까요?
+Prediction: 아 예 그러면 로그인 먼저 해주셨을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038634/0016.wav
+Reference: 문자 보시면은 일단 저희가 반송 절차들 안내 드 안내 도와드릴 건데.
+Prediction: 문자 보시면은 일단 저희가 반송 절차 안내해드릴 안내 도와드릴 건데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023480/0010.wav
+Reference: 회원님 감사합니다. 좋은 하루 되세요.
+Prediction: 확인 감사합니다 좋은 하루 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038603/0011.wav
+Reference: 금액 아 금액과 그러면은 그 안에 무제한으로 볼 수 있는 그것도 똑같은 거예요?
+Prediction: 금액 금액과 그러면은 그 안에 무제한으로 볼 수 있는 그것도 똑같은 거예요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038404/0006.wav
+Reference: 박스 위에다 올려놨는데 그 반송 확인된 거는 제품 하나라고 하시면서 박스만 가셔가져 가져가셨거든요.
+Prediction: 31일에 올려놨는데 반송 확인된 건은 제품 하나라고 하시면서 박스만 가져가지고 가져가셨거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038392/0017.wav
+Reference: 네네. 가능하실까요?
+Prediction: 네 네 가능하실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038389/0005.wav
+Reference: 네 확인 감사합니다 잠시만 기다려주세요.
+Prediction: 네 확인 감사합니다 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038345/0071.wav
+Reference: 네 감사합니다. 좋은 하루 되세요.
+Prediction: 네 감사합니다 좋은 하루 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038559/0027.wav
+Reference: 감사합니다. 좋은 하루 되세요.
+Prediction: 감사합니다 좋은 하루 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038409/0015.wav
+Reference: 한 2시간 정도 정도 걸리는데 취소 이후에 구매가 가능하다고 보시면 돼요. 저희가 대략적으로 한 2시간 으로 안내 드리는 거지만 만약에 그전에 취소가 된다면 바로 구매 가능하시고요.
+Prediction: 1시간 정도 정도 걸리는데 취소 이후에 구매 가능하다고 보시면 돼요 저희가 대략적으로 한두 시간으로 안 내드리는 거지만 만약에 그 전에 취소가 된다면 바로 구매 가능하시구요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038497/0009.wav
+Reference: 그거 교재 과목을 확통으로 했는데 기하로 해야 돼가지고 변경하려고요.
+Prediction: 이거 교재 과목을 다 토로했는데 기와로 해야 돼가지고 변경하려고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023605/0001.wav
+Reference: 그 제 모의고사 상품을 구매를 했는데요.
+Prediction: 그제 모의고사 상품을 구매했는데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038375/0003.wav
+Reference: 네 강좌입니다.
+Prediction: 네 강좌입니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038381/0019.wav
+Reference: 네. 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023479/0007.wav
+Reference: 우선은 이제 그렇게 교재 그럼 4권을 보내신다는 말씀 맞으시죠?
+Prediction: 우선은 이제 그렇게 교재 4권을 보내신다는 말씀 맞으시죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038695/0039.wav
+Reference: 아 그때 그때 계셨던 선생님이 있는데요.
+Prediction: 아 그때 그때 계셨던 선생님이 있는데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038519/0007.wav
+Reference: 그래서 환불 자체는 가능하신데 지금 바로 되시는 건 아니고 이미 발송이 돼버려가지고 회원님께서 교재를 수령하신 다음에 저희 쪽으로 다시 보내주셔야지 환불 가능하세요.
+Prediction: 그래서 환불 자체는 가능하신데 지금 바로 되시는 건 아니고 이미 발송이 돼버려 가지고 회원님께서 교재를 수령하신 다음에 저희 쪽으로 다시 보내주셔야지 환불 가능하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038663/0004.wav
+Reference: 그니까 그거를 3시 이후에 한다고요.
+Prediction: 그니까 그거를 3시에 한다고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023518/0017.wav
+Reference: 회원님 지금 메시지 넣어 드렸는데 확인해 보실 수 있으실까요?
+Prediction: 회원님 지금 메세지 넣어드렸는데 확인해보실 수 있을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023506/0020.wav
+Reference: 아이 지금 시즌 끝나면 끝나는 거 아닙니까?
+Prediction: 아이 지금 시즌 끝나면 끝나는 거 아닙니까
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038592/0004.wav
+Reference: 준비 중이더라고요.
+Prediction: 이게 이더라고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023604/0035.wav
+Reference: 5분 참고해 주시면 되겠습니다.
+Prediction: 부분 참고해 보겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038483/0010.wav
+Reference: 네 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038620/0017.wav
+Reference: 선택하시면 가운데 메뉴들 중에 뭐 수강 퀵 학습 QnA 질문하기 교재 구매.
+Prediction: 선택하시면 가운데 메뉴들 중에 수강 퀵 학습 qna 질문하기 교재 구매
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023454/0005.wav
+Reference: 네 제가 불러드릴까요?
+Prediction: 네 제가 불러드릴까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038465/0010.wav
+Reference: 확인 감사합니다. 회원님 잠시만 기다려주세요.
+Prediction: 확인 감사합니다 회원님 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023516/0004.wav
+Reference: 지금 저 퀵 업체에다가 다시 말씀을 드려보니까.
+Prediction: 지금은 그 업체에다가 다시 말씀을 드려보니까
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038345/0063.wav
+Reference: 그 배송 받으신 주소지랑 연락처를 확인해 드려야 되는데
+Prediction: 그 배송 받으신 주소지랑 연락처를 확인해드려야 되는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023524/0006.wav
+Reference: 네 네 지금 담당 부서 측에 지금 해당 건이.
+Prediction: 네 지금 담당 부서측에 지금 해당 건은
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038620/0015.wav
+Reference: 교재 구매 안내 맨 오른쪽에요?
+Prediction: 교재 구매 안내 맨 오른쪽에요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038486/0001.wav
+Reference: 누나 이게 누나가 연락해 주셔서 우선은 누나가 저희 집으로 환불한다고 해당 교재 3권 말해주시고요 그다음에 수요일날 최대한 빠르게 보내주시면 될 것 같아요. 이거 말씀드리려고 다시 전화드렸어요.
+Prediction: 누나 누나가 연락해 주셔서 우선은 전화가 저희 지금 환불한다고 해당 교재 3권 말해주시구요 그 다음에 수요일 날 최대한 빠르게 보내주시면 될 것 같아요 이거 말씀드리려고 다시 전화 드렸어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038373/0032.wav
+Reference: 잠시만요. 쭉 내려가면 환급 어디를 클릭할까요?
+Prediction: 잠시만 쭉 내려가면 환급 어디를 클릭할까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038542/0010.wav
+Reference: 정보 확인 후에 취소 도와드릴게요.
+Prediction: 정보 확인 후에 취소 도와 드릴게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038402/0036.wav
+Reference: 네네. 그렇게 뜬 거 봤어요.
+Prediction: 아 네 그렇게 뜬 거 봤어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023557/0005.wav
+Reference: 네 소중한 정보에 감사합니다. 네 교재는 오늘 발송될 수도 있는데요. 어머니 오늘 발송되시더라도요. 이 배송되는 데까지 시간 조금 소요될 수 있으세요.
+Prediction: 네 소중한 정보 확인 감사합니다 네 교재는 오늘 발송될 수도 있는데요 어머니 오늘 발송하더라도 요 배송지 선택하신 시간 조금 소요될 수 있으세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038693/0006.wav
+Reference: 네 감사합니다. 좋은 하루 보내세요.
+Prediction: 네 감사합니다 좋은 하루 보내세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038344/0033.wav
+Reference: 어 네. 연결되면 저랑은 통화 종료되시는데 혹시 다른 문의 사항은 없으실까요?
+Prediction: 아 네 연결되면 저 랑은 통화 종료되시는데 혹시 다른 문의사항은 없으실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038367/0008.wav
+Reference: 제가 그 금액을 넣었으니까 배송이 왔겠죠.
+Prediction: 제가 그 금액을 넣었으니까 배송이 없겠죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038561/0003.wav
+Reference: 감사합니다. 좋은 하루 보내세요.
+Prediction: 감사합니다 좋은 하루 보내세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023585/0029.wav
+Reference: 안내해드렸던 것처럼.
+Prediction: 안내해드렸던 것처럼
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038507/0014.wav
+Reference: 이거 취소는 여기도 되는 거죠? 일단은
+Prediction: 이게 취소는 여기서 되는거죠 일단
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023603/0010.wav
+Reference: 네 학생 회원으로 네 알겠습니다. 감사합니다 네.
+Prediction: 예 학생 회원으로 네 알겠습니다 감사합니다 네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038340/0014.wav
+Reference: 저희 쪽으로 반송이 완료가 되시면은 이제 환불 처리를 도와드리고 있는데.
+Prediction: 저희 쪽으로 반송이 완료가 되시면은 이제 환불 처리를 도와드리고 있는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023478/0002.wav
+Reference: 네 네 지금 독서실에 있고 제가 찾으러 갈 건데요.
+Prediction: 네 지금 독서실에 있고 제가 찾으러 갈 건데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038346/0023.wav
+Reference: 네 그 순차적으로 이제 교재 구매 진행 가능하신 점 네 배송되시는 점 참고 부탁드릴게요. 그리고 정확히는 이제
+Prediction: 네 그 순차적으로 이제 교재 구매 진행 가능하신 점 네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038448/0016.wav
+Reference: 네 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038356/0003.wav
+Reference: 네. 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038428/0011.wav
+Reference: 네 거기에 적혀 있는 주소로 보내주시면 되는데
+Prediction: 네 거기 적혀있는 주소로 보내주시면 되는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038617/0005.wav
+Reference: 네 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038406/0019.wav
+Reference: 교재는 취소가 안 돼요?
+Prediction: 교재는 취소가 안돼요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023505/0094.wav
+Reference: 네 네 저희가 급발송이라고 그 빠르게 배송.
+Prediction: 네네 저희가 발송이 나고 그 빠르게
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023472/0004.wav
+Reference: 모의고사 교재 4권 같은 경우에.
+Prediction: 모의고사 교재 4권 같은 경우
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038539/0004.wav
+Reference: 네. 잠시만 기다려주세요.
+Prediction: 예 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038589/0009.wav
+Reference: 네 감사합니다. 저희 쪽에서 해당 부분 진행 도와드리고.
+Prediction: 네 감사합니다 저희 쪽에서 해당 부분 진행 도와드리고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038656/0011.wav
+Reference: 예 예 선생님 맞습니다.
+Prediction: 네 네 맞습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038412/0017.wav
+Reference: 네. 알겠습니다.
+Prediction: 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038714/0002.wav
+Reference: 네 그래서 해당 부분 지원받으신 거 같은 경우 현금화가 안 되시는 걸로 확인되세요.
+Prediction: 네 그래서 해당 부분 지원 받으신 거 같은데요 현금 화가 안 되시는 걸로 확인되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038673/0001.wav
+Reference: 아 네 제가 다름이 아니라.
+Prediction: 아 네 저 다름이 아니라
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038405/0007.wav
+Reference: 저희 회사로 반송 어 반송해 주셔야 환불 가능 하시고요.
+Prediction: 저희 회사로 반송 어 반송해 주셔야 환불 가능하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038445/0013.wav
+Reference: 저희가 그를 제외한 금액이 취소되는 그 부분 취소 기능이 없어요. 저희 시스템상 그렇기 때문에 어머니께서
+Prediction: 저희가 제외한 금액이 최소 되는 그 부분 취소 기능이 없어요 저희 시스템상 그러기 때문에 어머니께서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023538/0014.wav
+Reference: 그럼 지금 월요일에 올 가능성이 거의 없다고 봐야 될까요?
+Prediction: 네 월요일에 올 가능성이 거의 없다고 봐야 될까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023578/0001.wav
+Reference: 네 이게 제가 이제 지금 된다 안된다는 말씀을 드릴 수는 있는 건 아니시고요.
+Prediction: 네 이게 저희가 지금 된다 안 된다는 말씀을 드릴 수 있는 건 아니시고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038667/0002.wav
+Reference: 아 이 교재 캐시 같은 경우는 이제 환불이 진행이 되려면 네 이제 남은 금액 네 환불을 진행하려 해드리고 있습니다.
+Prediction: 아이 교재 캐시 같은 경우는 환불이 진행이 되려면 이제 남은 금액 환불을 진행해 드리고 있습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023483/0002.wav
+Reference: 이제 구매 원하시는 교재는 어떤 교재세요?
+Prediction: 네 구매 원하시는 교재 어떤 교재 세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038402/0021.wav
+Reference: 동아시아사거든요. 그래서 이렇게 2개 신청 부탁드릴게요.
+Prediction: 동아시아사 거든요 그래서 이렇게 두 개 신청 부탁드릴게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023598/0002.wav
+Reference: 무엇을 도와드릴까요?
+Prediction: 무엇을 도와드릴까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038513/0067.wav
+Reference: 저도 그래 처음에 들었던 거 하고 내용이 틀려 가지고 목소리가 좀 커졌는데 이해해 주시고. 예. 그렇게 지금 처리해주세요. 그럼.
+Prediction: 그래서 처음에 들었던 거 하고 틀려 가지고 목소리도 커졌는데 이해해 주시고 예그렇게 좀 처리해 주세요 그럼
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038695/0056.wav
+Reference: 아 사과는 사과도 사과지만 제가 다른 학원 가서 열심히 공부를 할 수 있게끔 인제 그러니까 이제 저를 이제 그만 신경 써줬으면 좋겠다고요.
+Prediction: 아 사과는 사과도 사과하지만 이제 제가 다른 학원 가서 열심히 공부를 할 수 있게끔 이제
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038406/0002.wav
+Reference: 수업 강의를 신청을 했는데요. 이게 오리엔테이션은 이제 듣다 보니까 요 수업이 아니라 그 전 수업을 들었어야 하는데 잘못 신청했다고 그래서 요걸 어떻게 하면 되죠? 아이디요?
+Prediction: 그 강의를 신청을 했는데요 이게 오리엔테이션 듣다 보니까 요섭이 아니라 그 전 수업을 들었어야 하는데 잘못 신청했다고 해서 요거를 어떻게 하는지 아이디요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023592/0014.wav
+Reference: 회원님 계속 그거 확인되면은 저희가 요고 이제 그 못 받으신 회차만 다 재발송을 진행해드릴 거예요. 여보세요?
+Prediction: 회원님께서 그거 확인되면은 저희가 요거 그 못 받으신 회차만 재발송 진행해드릴 거예요 여보세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038658/0002.wav
+Reference: 아 네 네 이 금액으로 진행하고자 하는데 괜찮으세요?
+Prediction: 어 네 네 이 금액으로 진행 하고자 하는데 괜찮으세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038631/0018.wav
+Reference: 네 확인되셨고요. 그걸로 구매해 주시면 되시고요. 어 저희가 환불 접수는 1시간 안쪽으로 접수가 될 거고요. 아마 당일 결제 건은 아니시기 때문에 카드사 취소 반영 문자까지는 소요되시는 점 참고 부탁드리겠습니다.
+Prediction: 네 확인되셨구요 이걸로 구매해 주시면 되시고요 어 저희가 환불 접수는 한시간 안쪽으로 접수가 될 거고요 다만 당일 결제 건 아니시기 때문에 카드사 취소 반영 문자까지는 소요 되시는 점 드리겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038664/0027.wav
+Reference: 네 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038649/0013.wav
+Reference: 전액 환불 가능하세요.
+Prediction: 전액 환불 가능하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038492/0037.wav
+Reference: 캐시로 신용카드 결제한 금액까지 다 들어오는 건가요?
+Prediction: 새로 신용카드 결제한 금액까지 다 들어오는 건가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038351/0007.wav
+Reference: 아 전체 취소 그럼 전체 취소를 하고 다시 결제를 해야 되는 거죠?
+Prediction: 아 전체 전체 취소를 하고 다시 결제를 해야 되는 거죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038386/0001.wav
+Reference: 저희 수분감 수학 ONE 교잰데 책 끝이 너무 엉망이 돼있어가지고요.
+Prediction: 거의 수분감 수학 1교재인데 이 책 끝이 너무 엉망이 돼 있어가지고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023488/0004.wav
+Reference: 네 네. 확인 감사합니다. 잠시만요.
+Prediction: 네 네 확인 감사합니다 잠시만요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038460/0012.wav
+Reference: 네. 그리고 지금 보냈는데 네.
+Prediction: 예 그래서 보냈는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023465/0004.wav
+Reference: 네 맞은 오전에 배송 흐름이 있고 그 후로는 보니까 저희 쪽에 지 배송 흐름이 안 보이세요.
+Prediction: 네 맞아요 오전에 배송 흐름이 있고 그 후로는 보니까 저희 쪽에 지금 배송 흐름이 안 보이세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038677/0006.wav
+Reference: 네 확인 감사드리고요. 말씀해 주신 내용 확인 도와드리겠습니다. 카드 2건 다 취소해드릴 테니깐요. 다시 결제 1번만 더 해주세요.
+Prediction: 네 확인 감사드리고요 말씀해주신 내용 확인 도와드리겠습니다 카드 취소해드릴 테니깐요 다시 결제해 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023534/0001.wav
+Reference: 아 네 저 아까 그 환불 때문에 상담했었는데.
+Prediction: 아 네 저 아까 그 환불 때문에 상담했었는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038495/0001.wav
+Reference: 아 네 뭐 좀 여쭤보려고 그러는데요.
+Prediction: 아 네 뭐 좀 여쭤볼려 그러는데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038505/0013.wav
+Reference: 아 그러면 조금 더 고민해보고
+Prediction: 아
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038646/0015.wav
+Reference: 안 받는다는 얘기인가?
+Prediction: 만든 얘기
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038422/0014.wav
+Reference: 네 감사합니다.
+Prediction: 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023425/0016.wav
+Reference: 네 저희가 이제 환불 하실 경우에는.
+Prediction: 네 저희가 이제 환불하실 경우에는
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038540/0003.wav
+Reference: 확인되셨고요.
+Prediction: 네 네 확인되셨고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038689/0008.wav
+Reference: 아 수강을 하지 않고 연락을 드리면 되는 거예요?
+Prediction: 아 수강을 하지 않고 연락을 드리면 되는 거예요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023443/0004.wav
+Reference: 아 내일은 확실히 안 되는구나.
+Prediction: 아내는 확실히 안 되는구나
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038597/0004.wav
+Reference: 장바구니에 안 담겨서요.
+Prediction: 장바구니에 안 담겨서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023533/0002.wav
+Reference: 실례지만 아이디가 어떻게 되실까요?
+Prediction: 실례지만 아이디가 어떻게 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038646/0009.wav
+Reference: 희망 희망하시는.
+Prediction: 희망 희망하시는
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038572/0004.wav
+Reference: 네 환불 같은 경우는 저희 쪽으로 문의 주셔야지 취소 처리가 가능하세요.
+Prediction: 네 환불 같은 경우는 저희 쪽으로 문의 주셔야지 취소 처리가 가능하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038620/0038.wav
+Reference: 장바구니가 찾았어요. 아 네 네 그러면.
+Prediction: 바구니가 됐어요 아 네네 그러면
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038546/0015.wav
+Reference: 아니요. 아니요.
+Prediction: 아니
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038612/0013.wav
+Reference: 장바구니가 어딨죠?
+Prediction: 장바구니가 있죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038527/0012.wav
+Reference: 그래서 일단은 원래는 안 되는 게 맞는데요. 고객님께서 랩핑 같은 것도 아예 없어졌다고 하셨고 교재도 이제 아예 사용을
+Prediction: 그래도 일단은 안 되는게 맞는데요 네 랩핑도 아예 없어졌다고 하셨고 이제 아예 사용 안 하신
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038620/0012.wav
+Reference: 내 강의실이라고 있으세요.
+Prediction: 내 강의실이라고 있으세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038416/0023.wav
+Reference: 혹시 패스를 구매하시고 지금 다시 연락을 주실 거잖아요.
+Prediction: 혹시 패스를 구매하시고 다시 연락을 주실 거잖아요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023426/0009.wav
+Reference: 아 네. 그러시면은 저희가 교재 반송 관련해서 안내 도와드릴 텐데요. 일단 교재 자체.
+Prediction: 아 네 그러시면은 저희가 교재 반송 관련해서 안내 도와드릴 텐데요 해당 교재 자체가
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023532/0015.wav
+Reference: 네 해설 강의 다운을 제가 받았거든요.
+Prediction: 네 해 수강이 너무 제가 받았거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038588/0001.wav
+Reference: 네 정보 확인 감사드리고요. 이 금액으로 진행해드릴게요.
+Prediction: 네 정보 확인 감사드리고요 이 금액으로 진행해 드릴게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038715/0002.wav
+Reference: 아 잠시만요.
+Prediction: 아 잠시만요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023422/0025.wav
+Reference: 치 점수요? 네.
+Prediction: t점수
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023429/0003.wav
+Reference: 음 오랫동안에 다 입시가 완전 틀려져서 오랫동안 그냥 이렇게 뭉뚱그려서 할 수가 없을 텐데.
+Prediction: 음 오랫동안 장시간 운전해서 오랫동안 그냥 뭐 친구라서 할 수 없을 텐데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038446/0077.wav
+Reference: 네네네 그게 쪽지가 갈 거예요. 회원님.
+Prediction: 네네 그게 쪽지가 갈 거예요 회원님
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038413/0002.wav
+Reference: 어 확인 감사 드리고요. 잠시만요.
+Prediction: 어 확인 감사드리고요 잠시만요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038453/0013.wav
+Reference: 보면은 어머니 사이트 맨 아래쪽에 보면은
+Prediction: 보면 어머니 사이트 맨 아래쪽에 보면은
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038519/0004.wav
+Reference: 회원님 혹시 환불하시려는 사유 좀 알 수 있을까요?
+Prediction: 혹시 환불하시려는 사유 좀 알 수 있을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038400/0015.wav
+Reference: 네네. 불러주세요.
+Prediction: 네네 불러주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038683/0012.wav
+Reference: 결제해주셔면 될 거 같고요. 저희 쪽에서 카드 자체 변경이 어렵기 때문에 그냥 취소 후 다시 결제를 네 해주셔야 된다라는 점 참고 부탁드리고요.
+Prediction: 결제 될 거 같구요 저희 쪽에서 카드 자체 변경이 어렵기 때문에 취소 후 다시 결제를 해주셔야 된다라는 점 참고 부탁드리고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038468/0009.wav
+Reference: 이거 제가 그거를 마이페이지에 들어가서 확인을 해보니까
+Prediction: 네 제가 그거를 마이 페이지 들어가서 확인을 해보니까
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038594/0027.wav
+Reference: 예 알겠습니다.
+Prediction: 예 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038671/0001.wav
+Reference: 네 말씀하세요.
+Prediction: 네 말씀하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038405/0006.wav
+Reference: 연필통까지 말씀하시는 걸까요?
+Prediction: 필통까지 말씀하시는 걸까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038585/0007.wav
+Reference: 우선은 저희가 원칙적 저희가 유선상으로 받는 건 없어서요. 혹시라도.
+Prediction: 우선은 저희가 원칙 저희가 유선 상으로 받는 건 없어서요 혹시라도
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023579/0045.wav
+Reference: 아까 지금 금요일에 접수가 되도록 하려면은 저희가 회원님께서 다시 그때 연락을 주셨 주실 수도 있고 이때 회수가 진행되게 진행을 할 수도 있으니까.
+Prediction: 아 근까 지금 금요일에 접수가 되도록 하려면은 저희가 회원님께서 다시 그 때 연락을 주셔주실 수도 있고 이때 회수가 진행되고 그 진행을 할 수도 있으니까
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023467/0013.wav
+Reference: 음 어머니 일단 저희가요. 이게 지금 네 어머니 통화가 좀 불안정해 가지고 잘 안 들리시거든요.
+Prediction: 어머니 일단 저희 가요 이게 지금
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038345/0017.wav
+Reference: 아 네 회원님 기다려 주셔서 감사합니다.
+Prediction: 아 네 회원님 기다려 주셔서 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038490/0028.wav
+Reference: 어 전화 연결이 안 돼. 그래서 지금 콜 백 서비스를 한 거예요. 제
+Prediction: 어 전화 연결이 안되고 그러지 콜백 서비스를 한 것
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038398/0015.wav
+Reference: 정보 확인 감사드립니다. 네 원래는 일단 절차는 그렇게 되세요.
+Prediction: 확인 감사드립니다 원래는 이 절차는 그렇게 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023579/0010.wav
+Reference: 어 아님 금요일도 괜찮기 해요.
+Prediction: 어 아니면 금요일도 괜찮겠네요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023510/0016.wav
+Reference: 아 네 네 그러시면은 이따가 저희가 자정까지 전화 받고 있거든요. 그래서.
+Prediction: 아 네네 그러시면은 저희가 자정까지 받고 있거든요 그래서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038645/0016.wav
+Reference: 네 감사합니다. 상담사.
+Prediction: 네 감사합니다 상담사
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038689/0005.wav
+Reference: 현재는 지 수강 이력이 따로 없으셔서 전액 환불 가능하신데요. 우선은 이제.
+Prediction: 현재는 지금 수강 이력이 따로 없으셔서 전액 환불 가능하신데요 우선은 이제
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023489/0031.wav
+Reference: 회원님 주소는 맞을까요?
+Prediction: 회원님 주소는 맞을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038455/0022.wav
+Reference: 장바구니 쪼끔 더 내려보시겠어요?
+Prediction: 장바구니 조금 더 내려보시겠어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038645/0002.wav
+Reference: 그거 취소하려고 하거든요.
+Prediction: 그 취소하려고 하거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038631/0014.wav
+Reference: 끝났을 수도 있어서 시만 기다려주세요.
+Prediction: 끝났을 수도 있어서 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023428/0026.wav
+Reference: 네 감사합니다.
+Prediction: 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038494/0007.wav
+Reference: 이거 말씀하시는 거 맞으시죠?
+Prediction: 이거 말씀하시는거 맞으시죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038706/0005.wav
+Reference: 네 알겠습니다.
+Prediction: 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038579/0008.wav
+Reference: 영어 교재만 환불 희망하신다고요? 어머니.
+Prediction: 교재만 환불 희망하신다고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023463/0035.wav
+Reference: 기사님과 맞교환이 필요해요.
+Prediction: 기사님과 맞교환이 필요해요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038415/0001.wav
+Reference: 학습지원센터입니다. 무엇을 도와드릴까요?
+Prediction: 학습 지원 센터입니다 무엇을 도와드릴까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038345/0054.wav
+Reference: 네 그 거기서 남아 있는 교재 캐시가 지금
+Prediction: 네 그 거기서 남아있는 교재 캐시가 지금
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038521/0001.wav
+Reference: 성함이 어떻게 되실까요?
+Prediction: 성함이 어떻게 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038428/0008.wav
+Reference: 네 잠시만 기다려 주세요 회원님 혹시 교재 뜯어 보셨을까요?
+Prediction: 잠시만 기다려 주세요 회원님 혹시 교재 뜯어 뜯어보셨을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023575/0007.wav
+Reference: 음 그러면은 다른 혹시 부모님께서 이 부분에 대해서 알고 계신가요?
+Prediction: 음 그러면 다른 혹시 부모님께서 이 부분에 대해서 알고 계신가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038446/0063.wav
+Reference: 그 파워업인가 그거 같은데 그거 워크북하고 교재 같은데요.
+Prediction: 그 파업인가 그 거 같은데 그거 워크 북하고 교재 같은데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038642/0003.wav
+Reference: 예 맞아요. 맞아요.
+Prediction: 네 맞아요 맞아요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023579/0008.wav
+Reference: 제가 이 내용을 부모님께 전달을 해드리고 혹시 부모님과 회수를 진행해도 괜찮을까요?
+Prediction: 제가 이 내용을 부모님께 전달을 해드리고 혹시 부모님과 회수를 진행해도 괜찮을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038345/0032.wav
+Reference: 가져가시는 건가요? 아니면 제가 따로 개인적으로 보내드려야 되는 건가요?
+Prediction: 가져가시는 건가요 아니면 제가 따로 개인적으로 보내드려야 되는 건가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038531/0017.wav
+Reference: 예. 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023482/0025.wav
+Reference: 회원님 감사합니다. 좋은 하루 되세요.
+Prediction: 네 확인 감사합니다 좋은 하루 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023597/0013.wav
+Reference: 어 네 알겠습니다. 그럼 상품 품 보내도록 할게요.
+Prediction: 음 네 알겠습니다 그럼 상품 보내도록 할게
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023554/0011.wav
+Reference: 제가 잘 모르 지금 카드 결제 했는데 어떻게 어떻게 한다고요?
+Prediction: 제가 잘못 제가 카드 결제는 어떻게 어떻게 한다고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023425/0019.wav
+Reference: 그 교 반송 교재비를 선불로 지불하시고 저희 쪽으로 보내 주시면 되는데 그 부분 괜찮으실까요?
+Prediction: 그 그 방금 교재를 선불로 지불하시고 저희 쪽으로 보내주시면 되는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023427/0002.wav
+Reference: 그 지 그전에는 여기 보면 지나간 게 있었는데.
+Prediction: 그지 그 전에는 여기 보면 지나간 게 있었는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023471/0011.wav
+Reference: 어 리턴 서비스로 진행되고 있는 거라서 아직 모든 교재가 다 제공이 되고 이런 건 아니어서요.
+Prediction: 유통 서비스로 진행되고 있는 거라서 아직 모든 교재가 제공되고 이런 건 아니어서요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038620/0024.wav
+Reference: 재작년에 했고 요번에 다시 한번 들을려고 프리패스를 끊었는데 교재를 못 사서요.
+Prediction: 재작년에 했고 요번에 다시 1번 들으려고 프리패스를 드렸는데 교재를 못 썼어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023528/0002.wav
+Reference: 아 네 저 그 책 환부했는데.
+Prediction: 아 네 저 그 책 환불했는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038603/0015.wav
+Reference: 새로 결제하시는 거는.
+Prediction: 새로 결제하신 거는
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038645/0015.wav
+Reference: 아 네 감사합니다.
+Prediction: 아 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038587/0018.wav
+Reference: 근데 지금 취소를 하시고.
+Prediction: 근데 지금 취소를 하시고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023468/0005.wav
+Reference: 어 잠시만요.
+Prediction: 어 잠시만요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038482/0006.wav
+Reference: 네. 회원님 이거
+Prediction: 회원님 이거
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038345/0024.wav
+Reference: 이제 별도로 환불 처리가 진행이 되시는 거고요.
+Prediction: 이제 별도로 환불 처리가 진행이 되시는 거고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023554/0016.wav
+Reference: 카드 얘기는 하지도 않았어요. 왜 그러세요.
+Prediction: 아 내기를 하기도 했어요 왜 그러세요 오
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038662/0011.wav
+Reference: 아 아 예 근데요. 지금 제가 그.
+Prediction: 아 근데요 지금 제가 그
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038342/0012.wav
+Reference: 이제 발송 같은 경우는 저희 교재 팀에서 이제 주문하신 내역 확인하고 이제 순차적으로 바로 진행해 진행해 드리는 거라서요.
+Prediction: 그래서 발송 같은 경우는 저희 교재 팀에서 이제 주문하신 내역 확인하고 이제 순차적으로 바로 진행해 진행해 드리는 거라서요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023423/0020.wav
+Reference: 우체국이라고 해서 뭐 특별히 빠른 뭐 배송 같은 거 안 되는군요?
+Prediction: 우체국을 하고 있으며 특별히 빠른 배송이 안되는군요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023579/0011.wav
+Reference: 만약에 근데 금요일에 진행되더라도 금요일에 딱 회수가 진행이 되어야 되는 거죠?
+Prediction: 만약에 근데 금요일에 진행되더라도 금요일에 회수가 진행이 돼야 되는 거죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023514/0015.wav
+Reference: 혹시라도 5시 이후에 메일 발송해 주신다면 번거로우시겠지만 저희 밤 12시까지 통화 가능하니.
+Prediction: 혹시라도 5시 이후에 메일 발송해 주신다면 번거로우시겠지만 저희 12시까지 통화 가능하니
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023473/0053.wav
+Reference: 그러니까 그러면 당연히 파손될 수 없는 시스템이잖아요. 사실은 객관적으로 봤을 때
+Prediction: 그러니까 그러면 당연히 파손될 수 없는 시스템이 사실은 객관적으로 봤을 때
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038398/0002.wav
+Reference: 그 아 뉴런 기하를 듣고 있거든요. 그래서 교재를 주문해서 받았는데요.
+Prediction: 그아 뉴런 기하를 듣고 있거든요 네 그래서 교재를 주문해서 받았는데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023533/0018.wav
+Reference: 그러시면 회원님께서 왕복 배송비 결제를 해주셔야 하시는데요.
+Prediction: 그러시면 회원님께서 왕복 배송비 결제를 해주셔야 하시는데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023422/0038.wav
+Reference: 그냥 이게 지방이랑 같이 되어 있는 거 아니에요?
+Prediction: 그니까 이게 지방이랑 같이 되어있는 거 아니에요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023468/0010.wav
+Reference: 주말에 받아보고 싶어져서 주말에.
+Prediction: 주말에 바다보고 싶다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038445/0027.wav
+Reference: 아니요. 아니요.
+Prediction: 아니요 아니요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038447/0020.wav
+Reference: 그리고 책 이름이요.
+Prediction: 그리고 책 이름이요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023538/0012.wav
+Reference: 이제 출고 완료로만 돼 있어서요.
+Prediction: 이에 신고 완료로만 되어 있어서요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023555/0008.wav
+Reference: 네 어디 아이가 놔두거나 이렇게 할 수 있는 상황은 아닌데.
+Prediction: 네 어디 아이가 놔두고 이렇게 할 수 있는 상황
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038664/0015.wav
+Reference: 폐기를 하셔서 구매하신다고 하셔서 정보 확인하고 이 교재 다시 장바구니 담아드릴 거예요.
+Prediction: 폐기를 하셔서 구매하신다고 하셔서 정보 확인하고 이 교재 다시 장바구니 담아드릴 거예요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038632/0007.wav
+Reference: 그 뭐가 있어야 된다고요?
+Prediction: 그럼 뭐가 있어야 된다고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038457/0003.wav
+Reference: 아 네. 회원님 우선은요. 이제 그 교재를요.
+Prediction: 아 네 회원님 우선은요 이제 그 교재를요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023463/0031.wav
+Reference: 가능하실 거예요. 메일로.
+Prediction: 가능하실 거예요 메일로
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023477/0030.wav
+Reference: 장바구니에는 담겼는데요. 지금 제 그 통화한다 아직 결제는 못했어요.
+Prediction: 장바구니는 담겼는데 요 지금 제가 그 통화한 거 아직 결제를 못했어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038661/0006.wav
+Reference: 아 네 감사합니다. 해당 부분 지금.
+Prediction: 아 네 감사합니다 해당 부분 지금
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023500/0041.wav
+Reference: 이게 그면 이게 저희가 반송 이제 그 시간을 보니까 이 월요일 안에는 보내 준다고 돼있더라고요. 맞나요 7일 안에?
+Prediction: 이게 이게 저희가 반송 그 시간을 보니 열흘 안에는 보내준다고 돼 있더라고요 맞나요 11 하네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023600/0007.wav
+Reference: 저희가 교재 반송 절차가 저희 쪽에서 완료가 되면.
+Prediction: 저희가 저희 쪽에서 완료가 되면
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038381/0007.wav
+Reference: 네. 회원님 성함이 어떻게 되실까요?
+Prediction: 네 회원님 성함이 어떻게 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038569/0006.wav
+Reference: 소요될 수 있는 점 참고 부탁드리겠습니다.
+Prediction: 네 될 수 있는 점 참고 부탁드리겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038643/0006.wav
+Reference: 학교명을 말씀 부탁드리겠습니다.
+Prediction: 학교명을 말씀 부탁드리겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038455/0025.wav
+Reference: 장바구니 밑에
+Prediction: 장바구니 밑에
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023473/0007.wav
+Reference: 양심이 없는 사람들은 당연히 그것도 꾸겨서 보내겠죠. 그리고 사진도 잘 나오잖아요.
+Prediction: 양심이 없는 사람들은 다른 것도 써서 보내겠죠 그럼 사진도 잘 나오지 않아요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023604/0021.wav
+Reference: 환불하려고요 네.
+Prediction: 환불하려고요 네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038405/0005.wav
+Reference: 네 정보 확인 감사드립니다.
+Prediction: 네 정보 확인 감사드립니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023505/0111.wav
+Reference: 그래 놓고 이게 뭐를 요청하시는 거예요. 똑같은 얘기를 또 물어보고 또 물어보고 같은 이야기를 지금 몇 번을 하는 거야 지금 뒤에 똑같이.
+Prediction: 그럼 고2모를 요청하시는 거 똑같은 거 또 물어보고 같은 얘기를 지금 몇 프로 하는 거야 지금 둘이 똑같이
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038426/0004.wav
+Reference: 어머님 이미 교재가 우선 제가 회원 정보 확인을 위해서 자녀분 말씀해 주셔야 되세요. 어머니
+Prediction: 어머님이 교재가 우선 제가 회원 정보 확인 위해서 자녀분 말씀해 주셔야 되세요 어머니
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038445/0006.wav
+Reference: 잠시만요. 어머니 잠시만 기다려 주세요.
+Prediction: 잠시만요 어머니 들려주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023482/0004.wav
+Reference: 그면은 혹시 월요일날 일찍 배송하면 화요일 도착할 수 있나요?
+Prediction: 그러면은 혹시 원래 일찍 배송 화요일 도착할 수 있나요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038343/0002.wav
+Reference: 네네 네 확인해 주셔서 감사합니다. 잠시만 기다려 주시겠어요?
+Prediction: 네네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038548/0002.wav
+Reference: 네 안녕하세요.
+Prediction: 네 안녕하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023426/0023.wav
+Reference: 좋은 하루 되세요.
+Prediction: 좋은 하루 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023605/0005.wav
+Reference: 네 문의를 하라고 하셔가지고.
+Prediction: 네 문의하라고 하셔가지고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023512/0009.wav
+Reference: 네 주말 껴서 그런 것도 있고요. 저희가 인제 월요일날 발송을 하다 보니까.
+Prediction: 주말 껴서 그런 것도 있구요 저희가 월요일 날 발송하다 보니까
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038482/0038.wav
+Reference: 네. 이거 환불하시는 사유가 우선 어떻게 되세요?
+Prediction: 이거 환불하시는 사유가 어떻게 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038528/0001.wav
+Reference: 네 맞아요.
+Prediction: 네 맞아요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038603/0013.wav
+Reference: 아 네 알겠습니다.
+Prediction: 아 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038715/0012.wav
+Reference: 아 잠시만요. 1가지 더 보내드릴 텐데 잠시만 기다려주세요.
+Prediction: 잠시만요 한가지 더 보내드릴 텐데 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038461/0009.wav
+Reference: 어 예. 예. 그래 알겠어요.
+Prediction: 아 예 예 그래알겠어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023509/0023.wav
+Reference: 어 예 알겠습니다.
+Prediction: 어 예 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038692/0009.wav
+Reference: 네 어머니 기다려주셔서 감사합니다.
+Prediction: 네 어머니 기다려 주셔서 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023520/0009.wav
+Reference: 출고 작업이 완료되고 나면 이제 배송 그 빠르면 내일 정도 저희 쪽에서.
+Prediction: 출고 작업이 완료되고 나면 이제 배송 그 빠르면 내일 정도 저희 쪽에서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023538/0001.wav
+Reference: 네 근데 어 제가 그 토요일에는 그 출고가 돼서 송장이 보여야 월요일에는 받아서 공부를 할 텐데.
+Prediction: 네 근데 저 토요일에는 취소가 돼서 통장이 보여야 월요일은 바빠서 공부를 할 텐데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038482/0063.wav
+Reference: 그것만 확인
+Prediction: 그것만 확인
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038490/0029.wav
+Reference: 제가 지금 콜백 서비스 계속 도와드리고 있는 거 아시죠?
+Prediction: 제가 지금 콘서트를 도와드리고 있는 거 아시죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023574/0004.wav
+Reference: 현재 2권 다 안 뜯으신 거 맞으세요?
+Prediction: 현재 두권도 안 뜯으신 거 맞으세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038622/0005.wav
+Reference: 수험표 인증을 하지 못해서 수험표 그 n수생 상품으로 변경 원하신다라는 말씀 맞으실까요?
+Prediction: 수험표 인증을 하지 못해서 수험표 엔 수생 상품으로 변경 원하신다라는 말씀 맞으실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023514/0003.wav
+Reference: 어 그러세요. 제가 정보 확인 후에 안내 도와드릴 텐데요. 자녀분 연락처가 어떻게 되실까요
+Prediction: 어 그러세요 제가 정보 확인 후에 안내 도와드릴텐데요 자녀분 연락처가 어떻게 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023429/0010.wav
+Reference: 자료 없이 그냥 하신 건가 봐요?
+Prediction: 자료 없이 그냥 하시는 가봐요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038568/0009.wav
+Reference: 아 그게 아니고요. 지금 카드만 그 다시 결제를.
+Prediction: 아 그게 아니고요 지금 카드만 그 다시 결제를
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023544/0004.wav
+Reference: 아 네 감사합니다.
+Prediction: 아 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023423/0004.wav
+Reference: 그까 교재 주문 말씀하시는 거 아닌가요?
+Prediction: 그 교재 주문 말씀하시는 거 아닌가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038714/0013.wav
+Reference: 네 알겠습니다.
+Prediction: 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023488/0014.wav
+Reference: 그럼 만약에 취소를 하고 그거를 산다고 하면 아 네 그거는 나중에 결정할게요.
+Prediction: 그럼 만약에 취소를 하고 그거를 한다고 하면아 네 그거는 나중에 결정할게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038637/0007.wav
+Reference: 확인되셨고 지금 하시는 게.
+Prediction: 확인되셨고 지금 하시는게
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023521/0002.wav
+Reference: 아 이거 혹시 환불에 대해서 여쭤볼려고요.
+Prediction: 아 이거 혹시 환불에 대해서 여쭤볼려고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038346/0031.wav
+Reference: 네네 지금 보고 있습니다. 홈페이지.
+Prediction: 네네 지금 보고 있습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038464/0004.wav
+Reference: 아 네. 잠시만요.
+Prediction: 아 네 잠시만요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038583/0001.wav
+Reference: 네 여보세요?
+Prediction: 네 여보세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038612/0014.wav
+Reference: 살짝 화면 내리시면 빨간색 재결제 버튼 보이실 겁니다.
+Prediction: 살짝 화면 내리시면 빨간색 재결제 버튼 보이실 거다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038373/0033.wav
+Reference: 오른쪽이랑 왼쪽 차이 1번 확인해 주실 수 있을까요?
+Prediction: 오른쪽이랑 왼쪽 차이 한번 확인해주실 수 있을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038479/0011.wav
+Reference: 어 저희가 재발송 가능 여부는 담당 부서 확인이 필요해서
+Prediction: 어 저희가 재발송 가능 여부는 담당 부서 확인이 필요해서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038419/0003.wav
+Reference: 지금 그 49만원짜리인가 뭔가 그 연간 이용권 결제한 거 있잖아요?
+Prediction: 지금 그 490000원 짜리 인가 뭔가그거 연간 요금 결제한 거 있잖아요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038425/0010.wav
+Reference: 네 하고 메일 주신 다음에 저희 측으로 다시 한번 문의 부탁 드리겠 드릴게요.
+Prediction: 하고 메일 보내주신 다음에 저희 측으로 다시 한번 문의 부탁 드리 겠 드릴게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038611/0010.wav
+Reference: 아 오후 2시 이후에요?
+Prediction: 오후 2시 이후에요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038335/0006.wav
+Reference: 아 네. 저희가 정확한 정보 확인을 위해서 회원님 네. 잠시만 기다려 주세요. 그럼 회원님 혹시
+Prediction: 아 네 저희가 정확한 정보 확인을 위해서 회원님 네 잠시만 기다려 주세요 그럼 회원님 혹시
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038455/0020.wav
+Reference: 재결제 할 상품이 있습니다라고 뜨실 텐데 확인 안 되실까요?
+Prediction: 재결제할 상품 있습니다라고 뜨실 텐데 확인 안 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038615/0011.wav
+Reference: 네 그러시면은요. 제가 변경 후에 환불 가능하시고요.
+Prediction: 네 그러시면요 제가 변경 후에 환불 가능하시고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023469/0058.wav
+Reference: 월요일날 시키면 어쨌든 우체국에서 우체국에 지금 가 있는 거죠?
+Prediction: 올해는 어째 준비해서 우체국에 가 있는 거죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023463/0006.wav
+Reference: 네 네 배송이 오신 거죠?
+Prediction: 네 네 배송이 오신 거죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038571/0003.wav
+Reference: 네 실례지만 회원님과의 관계가 어떻게 되실까요?
+Prediction: 네 실례지만 회원님과 관계가 어떻게 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038525/0008.wav
+Reference: 혹시 다른 문의사항 있으세요?
+Prediction: 혹시 다른 문의사항 있으세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038406/0009.wav
+Reference: 같이 구매하신 그
+Prediction: 같이 구매하신 그
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038469/0016.wav
+Reference: 네. 알겠습니다.
+Prediction: 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023500/0039.wav
+Reference: 아 네 알겠습니다.
+Prediction: 아 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038610/0003.wav
+Reference: 예 수고하세요.
+Prediction: 예 수고하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038638/0001.wav
+Reference: 아 네 안녕하세요?
+Prediction: 아 네 안녕하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023535/0001.wav
+Reference: 아 예 방금 제가 거기에서 오는 전화를 못 받아가지고요.
+Prediction: 아 예 방금 제가 거기에서 오늘 전화를 못 받아가지고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038624/0010.wav
+Reference: 바뀐 거 같더라고요.
+Prediction: 바뀐 거 같더라고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038659/0001.wav
+Reference: 네 안녕하세요? 그 제가.
+Prediction: 안녕하세요 그 제가
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023548/0008.wav
+Reference: 취소는 어렵고요. 그 회원님께서 그 교재를 받아보신 다음에 저희쪽으로 반송을 해주셔야 이게 환불이 가능하거든요.
+Prediction: 어렵고요 그 회원님께서 교재를 받아보신 다음에 저희 쪽으로 반송을 해주셔야지 환불이 가능하거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038719/0015.wav
+Reference: 그럼 ARS 결제해보 하시겠어요?
+Prediction: 에이알에스 결제 해보시고 하시겠어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038373/0021.wav
+Reference: 이거 혹시 지금 이거 지금 나중에 한 것도 나중에
+Prediction: 이거 혹시 지금 이거 지금 나중에 한 것도 나중에
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023595/0015.wav
+Reference: 발송을 해드릴 건데.
+Prediction: 발송을 해드릴건 데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038717/0010.wav
+Reference: 아 그러면 조금만 기다려주세요. 바로 확인하고 말씀드리겠습니다.
+Prediction: 아 그러면 조금만 기다려 주세요 바로 확인하고 말씀드리겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023484/0002.wav
+Reference: 아 네 네. 그 이제 발송해 주실 때요. 아까 그.
+Prediction: 아 네 네 그 이제 발송해주실 때요 아까 그
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038345/0001.wav
+Reference: 네 확인해 주셔서 감사합니다.
+Prediction: 네 확인해 주셔서 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038527/0008.wav
+Reference: 랩핑은 원래 안 돼 있었고요. 사용 안 했어요.
+Prediction: 레 핑은 원래 안 되어 있었구요 사용 안 했어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023453/0004.wav
+Reference: 아 그러셨어요? 일단 불편해서 너무 죄송하고 음 그러면 그 인쇄가 잘못됐다는 게 어떤 식으로 좀 잘못되어 있는지 제가 좀 알 수 있을까요?
+Prediction: 아 그러셨어요 일단 그게 너무 하고 음 그러면 그 인쇄가 잘못 됐다는게 어떤 식으로 좀 잘못 되어 있는지 제가 좀 알 수 있을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038459/0016.wav
+Reference: 아 그러세요. 회원님 잠시만 기다려 주세요.
+Prediction: 아 그러세요 회원님 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038496/0051.wav
+Reference: 알겠습니다. 일단 그럼 일단 환불하고 저희가 방학 때 또 이용해서 제가 다시 또 사용하도록 그렇게 하겠습니다. 네.
+Prediction: 알겠습니다 그럼 일단 환불하고 제가 방학 때도 유용해서 제가 다시 또 사용하도록 그렇게 하겠습니다 네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023534/0003.wav
+Reference: 어 회원님 기다려 주셔서 감사합니다.
+Prediction: 고객님 기다려 주셔서 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038653/0008.wav
+Reference: 아 혹시 오늘 바로는 입금이 안 되는 건가요?
+Prediction: 아 혹시 오늘 바로는 입금이 안되는건가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038625/0006.wav
+Reference: 아 예 알겠습니다.
+Prediction: 아 예 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023589/0015.wav
+Reference: 그러면 언제쯤 될까요?
+Prediction: 그러면 언제쯤 될까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023422/0016.wav
+Reference: 자연 계열 검색.
+Prediction: 자연계 검색
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038390/0001.wav
+Reference: 네 아 이게 그 교재 캐시랑 다 합해서 이렇게 금액이죠? 아 예 알겠습니다. 예 감사합니다.
+Prediction: 네 아 이게 그 교재 캐시랑 다 합해서 이렇게 금액이죠 아 예 알겠습니다 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023505/0066.wav
+Reference: 네 네 이게 내일 출고 작업이 이루어질지 안 이루어질지 확인이 안 돼서요.
+Prediction: 네 네 이게 내일 출고 작업이 이루어지지 않으므로 될지 확인이 안돼서요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023473/0066.wav
+Reference: 네 알겠습니다. 회원님 일단은 아까 안내드렸듯이 동일한 정도의 파손인 경우에는 추가적으로 재발송 도움드리기 어려울 수 있고
+Prediction: 네 알겠습니다 회원님 그러면 일단은 아까 안내드렸듯이 한 동일한 정도의 파손된 경우에는 추가적으로 재발송 도움 드리기 어려울 수
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038474/0009.wav
+Reference: 어머니 제가 지금 문자 보내드리고 있어요. 잠시만 기다려 주세
+Prediction: 어머니 제가 지금 문자 보내드리고 있어요 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038336/0028.wav
+Reference: 네 다른 문의 사항 더 없으실까요?
+Prediction: 네 다른 문의사항 더 없으실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038691/0002.wav
+Reference: 아 그 제 그 아까 안내해 드렸던 부분 중에 제가 변경된 부분이 있어서 정정 안내해 드릴려고 연락드렸고요.
+Prediction: 아 그 제가 아까 안내드렸던 부분 중에 제가 변경된 부분이 있어서 정정 안내 드리려고 연락드렸어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023506/0005.wav
+Reference: 아 안 썼는데요?
+Prediction: 응 안 썼는데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023437/0012.wav
+Reference: 네 여보세요?
+Prediction: 네 여보세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038664/0024.wav
+Reference: 아 네 알겠습니다.
+Prediction: 아 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023468/0007.wav
+Reference: 다른 택배가 더 빨리 되네요.
+Prediction: 다른 택배도 빨리 되네요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023512/0023.wav
+Reference: 저희가 인제 보통은 교재 출고가 많으면은 이제 일요일도 출근을 하셔서 발송은 할 수가 있어요. 그래서.
+Prediction: 저희가 이제 보통은 교재 출고가많으면은 6월도 출근을 하셔서 발송을 할 수가 있어요 그래서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038411/0020.wav
+Reference: 아 아니 따로 없습니다.
+Prediction: 아니 따로 없어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023503/0017.wav
+Reference: 아 네 알겠습니다. 그러면 지금 잠시만요. 제가 장바구니 확인 1번만 할게 해도 될까요?
+Prediction: 아 네 알겠습니다 그러면 지금 잠시만요 제가 장바구니 확인 한번 해도 될까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038445/0030.wav
+Reference: 네 어머니 기다려 주셔서 감사합니다. 어머니 저희가 배송비까지 재결제해주셔야 저희가 강좌 금액만 환불 가능하시거든요.
+Prediction: 네 어머니 기다려 주셔서 감사합니다 어머니 저희가 배송비까지 재결제 해주셔야 저희가 강좌 금액만 환불 가능하시거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023529/0020.wav
+Reference: 네 오늘은 어려우세요.
+Prediction: 네 오늘은 어려우세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038439/0020.wav
+Reference: 마이 페이지 들어가시면 왼쪽 보시겠어요. 왼쪽에 하얀색 배너가 붙어 있을 거예요. 보이실까요?
+Prediction: 마이 페이지 들어가시면 왼쪽 보시겠어요 왼쪽에 하얀색 배너가 붙어있을 거예요 보이실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038495/0002.wav
+Reference: 여보세요. 네 교재를 잘못 주문했는데 아직 받지는 않았거든요.
+Prediction: 여보세요 네 교재를 잘못 주문했는데 아직 받지는 않았거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038632/0005.wav
+Reference: 그거 저희가 가 찍은 게 그 수험표 옆에 그.
+Prediction: 그거 저희가 카 지금 이게 그 수험표 옆에 그
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038649/0014.wav
+Reference: 네 근데 이제.
+Prediction: 네 이제
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023521/0004.wav
+Reference: 아 네 이거 환불 희망하시는 사유가 어떻게 되실까요?
+Prediction: 아 네 이거 환불 희망하시는 사유가 어떻게 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038530/0009.wav
+Reference: 네네. 아 알겠습니다.
+Prediction: 예예 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023571/0003.wav
+Reference: 개인 접수해가지고 착불로 보내야 되거든요.
+Prediction: 개인적으로 해가지고 착불로 보내야 되거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038698/0011.wav
+Reference: 1번 더 말씀해 주시겠어요? 어떤 부분인지?
+Prediction: 한번 더 말씀해 주시겠어요 어떤 부분인지
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023597/0002.wav
+Reference: 확인되셨고요. 혹시 환불하시는 교재명 확인되실까요?
+Prediction: 확인되셨고요 혹시 환불하시는 교재명 확인되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038608/0004.wav
+Reference: 따로 할 거는 없어요?
+Prediction: 따로 없어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038647/0013.wav
+Reference: 저희 쪽 전화하셔가지고 뭐 바꿔주시던지 그렇게 하시면 돼요.
+Prediction: 저희 쪽 전화 하셔가지고 바꿔주시던지 그렇게 하시면 돼요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023430/0005.wav
+Reference: 회원님께서 계속 혹시 당일 출고를 희망하시면 결제하시고 저희 쪽으로 문의 주시면 저희가 최대한 빠르게 당일 출고 가능하도록 요청해 드릴 수 있긴 합니다.
+Prediction: 회원님께서 혹시 당일 중으로 희망하시면 결제하시고 저희 쪽으로 문의 주시면 저희가 최대한 빠르게 당일 출고 가능하도록 해드릴 수 있긴합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023461/0029.wav
+Reference: 아 그러면은 그걸 계속 제가 들어가서 그 알림으로 저기 되어있는지 확인을 한 해야 되겠네요.
+Prediction: 아 그러면 그거 계속 제가 들어가서 그 알림으로 적이 되어 있는지 확인을 하셔야 돼요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038664/0021.wav
+Reference: 혹시 어떤 교재 말?
+Prediction: 혹시 어떤 교재
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023473/0030.wav
+Reference: 발송을 하고 만약에 이게만이 아니라 그러면 나중에 그러면 저한테 컴플레인 걸면 되잖아요. 저한테
+Prediction: 발송을 하고 만약에 이게 아니라 그러면 나중에 그러면 저한테 컴플레인 걸면 되잖아요 저한테
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023427/0004.wav
+Reference: 네 지금 현재 확인 중에 있으니까 잠시만 더 기다려 주세요.
+Prediction: 네 지금 현재 확인 중에 있으니까 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038336/0026.wav
+Reference: 네 예금주는 어떻게 되세요?
+Prediction: 네 예금주 어떻게 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038511/0007.wav
+Reference: 네. 그리고 성함은 어떻게 되실까요?
+Prediction: 네 그리고 성함은 어떻게 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023505/0062.wav
+Reference: 네 네 안 되세요.
+Prediction: 네 네 안 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038446/0030.wav
+Reference: 회원님 저희 지금 보냈거든요. 다시?
+Prediction: 회원님 저희 지금 보냈거든요 다시
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038661/0005.wav
+Reference: 아 네 성함 한번 부탁 드리겠습니다.
+Prediction: 아 네 성함 한번 부탁드리겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023546/0010.wav
+Reference: 4일날 받으신 것으로 확인이 되세요. 그래서 지금 10일 안에 반송을 해주셔야 하시는데 지금 반송기간이 경과한 것으로 확인되세요.
+Prediction: 4일날 받으신 것으로 확인이 되세요 그래서 지금 시간에 반송을 해주셔야 하시는데 지금 반송 기간이 경과한 것으로 확인되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038384/0006.wav
+Reference: 잠시만요. 네 확인 감사합니다.
+Prediction: 잠시만요 네 아 네 확인 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023524/0013.wav
+Reference: 어 그르니까 어디에다 그거 여쭤보는 거냐고요. 여쭤보는 거를.
+Prediction: 어 그러니까 어디에다가 그 여쭤보는 거냐고 여쭤 보는 거
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038449/0001.wav
+Reference: 저 이번에 교재를 주문해서 받았거든요?
+Prediction: 제가 이번에 교재를 주문해서 받았거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038372/0005.wav
+Reference: 이렇게 두 권 취소 원하시는 거 맞으세요?
+Prediction: 이렇게 2권 취소 원하시는 거 맞으세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023503/0012.wav
+Reference: 강좌 수강하신 거 확인되시고 교재 구매하신 거 확인되셔서 제가 장바구니에 담아 드렸고요.
+Prediction: 강좌 수강하신 거 확인되시고 교재 구매하신 거 확인되셔서 제가 장바구니 담아드렸고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038378/0008.wav
+Reference: 아 네 알겠습니다.
+Prediction: 아 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038426/0006.wav
+Reference: 저희가 확인했는데 아직 배송 안 됐다고 출고 안 됐다고 돼 있던데
+Prediction: 저희가 확인했는데 배송 안됐다고 출고 안 됐다고 돼 있는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038391/0003.wav
+Reference: 아 네. 본인 확인 먼저 부탁 드릴게요. 네 네 네. 예금주명은 어떻게 되실까요?
+Prediction: 아 네 본인 확인 먼저 부탁드릴게요 네 네 네 예금주명은 어떻게 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038375/0001.wav
+Reference: 네. 그 환불 관련해서 문의 드리려고 하는데요.
+Prediction: 네 그 환불 관련해서 문의드리려고 했는데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023555/0002.wav
+Reference: 네 회원님 감사합니다. 네 캐시 충전해 주신 거 확인되셨고요.
+Prediction: 네 감사합니다 네 캐시 충전해주신 거 확인되셨고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023480/0009.wav
+Reference: 회원님 감사합니다. 추가적인 문의사항 있으실까요?
+Prediction: 네 확인 감사합니다 추가적인 문의사항 있으실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023477/0040.wav
+Reference: 아 메시지 받으셨어요?
+Prediction: 아 메세지 받으셨어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038661/0008.wav
+Reference: 네 네 해당 부분 혹시 지금 환불하시는 사유가 어떻게 되시는지 알 수 있을까요?
+Prediction: 네 네 해당 부분 혹시 환불하시는 사유가 어떻게 되는지 알 수 있을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038664/0016.wav
+Reference: 네 정보 확인 감사합니다.
+Prediction: 네 정보 확인 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023577/0004.wav
+Reference: 네 성함이 어떻게 되십니까?
+Prediction: 성함이 어떻게 되십니까
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023515/0003.wav
+Reference: 그럼 터미널에서 뭐 퀵을 알아 봐서 다시 보내든가 해야 되는데.
+Prediction: 그럼 터미널에서 뭐 퀵으로 알아봐서 다시 보내든가 해야 되는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038700/0005.wav
+Reference: 네 소중한 정보 확인 감사드리고요.
+Prediction: 네 소중한 정보 확인 감사드리고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038392/0022.wav
+Reference: 네. 문제를 풀거나 아니면 책을 열어서 잠깐 보거나 한다는 식으로는 사용을 못하나요?
+Prediction: 네 문제를 풀거나 아니면 책을 열어서 잠깐 국어를 한다는 식으로 사용을 못하나요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038605/0011.wav
+Reference: 온다고 했는데 그 발송이 안 된.
+Prediction: 어디라고 했는데 그게 발송해야 하는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038630/0013.wav
+Reference: 회원님께서 교재 그 5권 중에.
+Prediction: 그래서 교재 5권 중에
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038398/0007.wav
+Reference: 새로운 교재로 교환 원하신다면 번거로우시겠지만 좀 사진을 찍어서 저희 메일로 보내주실 수 있을까요?
+Prediction: 학원 교재로 교환 원하신다면 어려우시겠지만 사진을 찍어서 저희 메일로 보내주실 수 있을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038627/0004.wav
+Reference: 아 해당 회원은 탈퇴 회원으로 확인되시거든요.
+Prediction: 어 해당 회원은 탈퇴 회원으로 확인되시거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038549/0010.wav
+Reference: 아 네 감사합니다.
+Prediction: 아 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038501/0005.wav
+Reference: 네. 맞습니다.
+Prediction: 네 맞습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023477/0029.wav
+Reference: 지금 하시니까 되신다는 거에요?
+Prediction: 지금 하신 이가 되신다는 거예요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023494/0008.wav
+Reference: 네 근데 제가 지금 배송이 잘못 간 거여 가지고 그것 때문에 연락을 드렸었는데
+Prediction: 네 근데 제가 지금 배송이 잘못 간 거여 가지고 그거 때문에 연락을 드렸었는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023433/0005.wav
+Reference: 네 잠시만 기다려 주세요.
+Prediction: 네 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038442/0029.wav
+Reference: 3개가 있어서
+Prediction: 대개가 있어서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023425/0030.wav
+Reference: 같이 단 그 동봉해서 저희 쪽으로 보내 주시면 되는데요.
+Prediction: 같이 그 동봉해서 저희 쪽으로 보내주시면 되는데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023543/0006.wav
+Reference: 가능하세요. 지금 보고 계세요?
+Prediction: 가능하세요 지금 보고 계세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023533/0017.wav
+Reference: 그냥 차감돼서 바로 그냥 입금 카드 처리가 될 수 있는 방법이 없을까요?
+Prediction: 그냥 차감되서 바로 그냥 입금 처리가 될 수 있는 방법 없을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038629/0008.wav
+Reference: 아 아 네 알겠습니다.
+Prediction: 아 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038496/0020.wav
+Reference: 어머님 잠시만 기다려 주시겠어요.
+Prediction: 어머니 잠시만 기다려 주시겠어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023428/0002.wav
+Reference: 네 이제 우체국이 훨씬 빠른 빠른 거 맞는 거죠? 저 아까 빠르다고 했잖아요.
+Prediction: 네 인터넷 빠른 거 맞는 거죠 그럼 빠르다고 했잖아요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023479/0002.wav
+Reference: 환불한다고 했는데
+Prediction: 네 환불한다고 했는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038654/0012.wav
+Reference: 만요. 아 네 왔어요.
+Prediction: 아 네 왔어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023503/0019.wav
+Reference: 쇼핑 카트기 모양에서 확인해 주시면 되세요. 어머니.
+Prediction: 쇼핑 카트 기 모양에서 확인해 주시면 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038634/0008.wav
+Reference: 네 1권 더 말씀해 주시겠어요?
+Prediction: 네 한번 더 말씀해 주시겠어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023433/0007.wav
+Reference: 네 내 강의실에 들어왔어요.
+Prediction: 네 강의실 들어왔어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038556/0011.wav
+Reference: 네 다른 문의 사항 더 없으실까요?
+Prediction: 네 다른 문의사항 더 없으실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023516/0017.wav
+Reference: 예 예 예 한번 보고 보내 주세요. 이번에요 불량이 너무 많이 걸려 가지고.
+Prediction: 아 예 예 보내주세요 이번엔 분량이 너무 많이 걸려가지고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023463/0017.wav
+Reference: 네 꾸겨져가지고 이게 그냥 보기에는 멀쩡한데 예 이게 사진을 사진을 찍어도 그렇게 자세히는 안 나와요.
+Prediction: 네 꾸겨져 가지고 이게 그냥 보기에는 멀쩡한데 이게 사진을 찍어도 그렇게 자세히는 안 나와요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038496/0034.wav
+Reference: 제가 다시 1번 좀 안내를 드릴게요. 이게 지금 이전에 여기 제가 방금 안내 드렸던 거는 그 이용 안내 환불 안내에 보시면은 환불 불가하다고 나와 있잖아요. 이거는 제가
+Prediction: 제가 다시 한번 좀 안내를 드릴게요 이게 지금 이전에 여기 제가 방금 안내드렸던 건은 이용 안내 환불 안내 보시면은 환불 불가라고 나와 있잖아요 이거는 제가
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038452/0002.wav
+Reference: 아 네. 알겠습니다. 감사합니다.
+Prediction: 아 네 알겠습니다 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023504/0013.wav
+Reference: 나머지 교재를 제결제하신 다음에 그다음에 다시 재문의를 주신 다음에 그다음에 이제 전체 취소가 가능하거든요. 요게 신용카드가 부분 취소가 안 돼서 쪼끔 과정이 쪼끔 번거로워요.
+Prediction: 나머지 교재를 재결제 하신 다음에 그 다음에 다시 재 문의를 주신 다음에 다음에 이제 전체 취소가 가능하거든요 이게 신용카드가 부분 취소가 안돼서 조금 과정이 조금 번거로워요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023489/0037.wav
+Reference: 회원님이 수령한 게 아니시라고요?
+Prediction: 회원님이 필요한게 아니시라구요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023498/0005.wav
+Reference: 그 종이 실물책을 지 배송을 다 하고 있고요.
+Prediction: 그 종이 실물 책을 배송을 다하고 있고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038607/0002.wav
+Reference: 네 회원님 환불 원하시는 건가요?
+Prediction: 네 환불 원하시는 건가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023523/0007.wav
+Reference: 네 확인 완료했습니다.
+Prediction: 네 확인하였습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023494/0005.wav
+Reference: 네 근데 도착 문자는 안 왔는데
+Prediction: 네 도착 문자는 왔는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038451/0004.wav
+Reference: 아 네 감사합니다.
+Prediction: 아 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023482/0014.wav
+Reference: 음 그래요? 그러면은 음 이게 반품은 또 해야 되거든요. 그 받았던 그 문제집은. 아 잠시만요.
+Prediction: 음 그래요 그러면은 음 이게 반품을 해야 되거든요 그거 받았던 근데 지금 아 잠시만요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038533/0004.wav
+Reference: 본바탕 모의고사요?
+Prediction: 본 바탕 모의고사요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038385/0022.wav
+Reference: 네 감사합니다. 좋은 하루 되세요.
+Prediction: 네 감사합니다 좋은 하루 되세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023422/0021.wav
+Reference: 아 네. 저희가 이게 그 잠시만 기다려 주세요. 확인.
+Prediction: 아 네 저희 아이에 그 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023559/0008.wav
+Reference: 우선은 그 부분 확인되셨고요. 그리고 제가 이제 알려드릴 부분은 우선 이전에 저희 전화 주셨던 이제 그 본인이죠. 학생분 학생 회원님이 저희 저희 쪽으로 전화를 주셨었어요.
+Prediction: 우선 그 부분 확인되셨고요 그리고 제가 이제 부분은 우선 이전에 전화 주셨던 이제 그 본인이 이제 학생분 학생 회원님이 저희 쪽으로 전화를 주셨어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023453/0012.wav
+Reference: 보내주시고 말씀주시고요. 제가 문자 보냈어요. 혹시 문자 1번 확인 가능하실까요?
+Prediction: 보내주시고 말씀해 주시구요 제가 문자 보냈어요 혹시 문자 한번 확인 가능하실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038342/0026.wav
+Reference: 보통 토요일까지는 업무를 하지 않아요. 회사도?
+Prediction: 보통 토요일까지는 업무를 하지 않아요 회사도
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038513/0033.wav
+Reference: 교재는 사용한 적이 없습니다.
+Prediction: 교재는 사용한 적이 없습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023518/0015.wav
+Reference: 그냥 포장을 뜯는 건 상관 없으신데 교재 자체에 있는 랩핑을 개봉하면 그거는 재판매가 어려워서.
+Prediction: 그냥 포장을 뜯는 건 상관없으신데 교재 자체 랩핑을 개봉하면 그거는 재판매가 어려워서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038426/0020.wav
+Reference: 네 감사합니다.
+Prediction: 네 감사합니다 네 네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023585/0031.wav
+Reference: 그 퀵 비용을 저희가 확인을 해 봐야 돼요.
+Prediction: 그 퀵 비용은 저희가 확인을 해봐야 돼요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038420/0005.wav
+Reference: 어 회원님 혹시 래핑은 래핑이 있는 교재는 래핑을 뜯으셨을까요? 회원님 우선은 제가 이번에는 이거 문자 보내 제가 반송 관련해서 안내드릴 거예요. 나중에는
+Prediction: 어 회원님 혹시 랩핑은 랩핑 있는 교재는 랩핑은 뜯으셨을까요 회원님 우선은 이번에는 이거 문자 보낸 제가 반송 관련 안내해드릴 거예요 나중에는
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038446/0040.wav
+Reference: 네 회원님 그렇게 하시는데 이제 회원님께서는 제가 말씀드린 건 이제 회수 접수로 저희가 이해를 해가지고 어쨌든 간에 회원님 측에서 직접 보내주시기만 하시면 돼요. 이제 우체국에서
+Prediction: 네 회원님 그렇게 하시는데 이제 회원님께서는 제가 말씀드린 건 이제 회수 접수로 저희가 이해를 해가지고 어쨌든 간에 회원님 측에서 직접 보내 주시기만 하시면 돼요 이제 우체국에서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038545/0001.wav
+Reference: 아 잠깐만요.
+Prediction: 아 잠깐만요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023509/0024.wav
+Reference: 그 전에 인제 책을 모두 다 저희 쪽으로 그 반송을 다 해 주셔야겠죠.
+Prediction: 그 전에 이제 책을 모두 저희 쪽으로 그 반송을 해주셔야겠죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023483/0003.wav
+Reference: 선생님 것 중에서 어떤 교재를 말씀하시는 거예요? 어머니 저희가 교재가 원체 많다 보니깐 어 교재명을 말씀을 해 주셔야 돼요.
+Prediction: 선생님 것 중에서 어떤 교재를 말씀하시는 거예요 어머니 제가 교재가 원체 많다 보니까 어 교재를 주셔야 돼요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038570/0004.wav
+Reference: 아 예 금 일단 그냥 취소해주세요.
+Prediction: 아 예 그럼 일단 취소해 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038497/0005.wav
+Reference: 네. 하고 아 일부 취소 가능해요?
+Prediction: 네 하고 일부 취소가 능해요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023500/0014.wav
+Reference: 그래서 회원님께서 직접 가까운 택배사나 뭐 편의점을 통해.
+Prediction: 그래서 회원님께서 직접 가까운 택배사나 뭐 입금을 통해
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023448/0016.wav
+Reference: 어 한 뭐 이렇게 한 세네 시간 안에 와 두세 시간 안에 다 이게 출고 처리가 돼서 택배사로 넘어가요?
+Prediction: 어 한 뭐 이렇게 한세 네 시간 안에 두세 시간 안에 다 이게 출고 처리가 돼서 택배사로 넘어가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038343/0001.wav
+Reference: 보세요 아 그 다름이 아니라 제가 교재를 잘못 시켜가지고요. 환불 전화를 환불하려고 전화드렸어요. 네 잠시만요.
+Prediction: 여보세요 네 아 네 그 다름이 아니라 제가 네 네 교재를 잘못 시켜가지고 환불 전화를 환불하려고 전화 드렸어요 네 잠시만요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038380/0022.wav
+Reference: 아 네 그렇게 할게요.
+Prediction: 아 네 그렇게 할게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038505/0002.wav
+Reference: 아 패스 환불이요? 네네네네
+Prediction: 패스 환불이요 네 네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023448/0024.wav
+Reference: 아 네 네 맞으시고요. 어머니 문자 제가 지금 하나 더 보내드렸는데 메모라고 보내드렸어요.
+Prediction: 아 네 네 맞으시고요 어머니 제가 문자 지금 보내드렸는데 메모라고 보내드렸어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023489/0096.wav
+Reference: 혹시 추가 요금 필요하면은 저희쪽에서.
+Prediction: 혹시 추가 요금 필요하면은 결제하겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038526/0004.wav
+Reference: 그럼 이제 아이가 바로 저기 그 강의를 선택한 후에 사는 거예요?
+Prediction: 그런데 아이가 바로 저기 그 강의를 선택한 후에 하는 거예요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023500/0004.wav
+Reference: 네 기다려 주셔서 감사합니다.
+Prediction: 네 기다려 주셔서 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038609/0002.wav
+Reference: 환급형으로 오늘 구매했는데 카드를 바.
+Prediction: 환급형을 오늘 구매했는데 카드를 받
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023577/0003.wav
+Reference: 니가 설명 좀 해봐 불러봐
+Prediction: 니가 좀 해봐
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038480/0012.wav
+Reference: 가입된 여기로 지금 여기에 지금 어머니 연락처로 되어있는 거 같거든요.
+Prediction: 가입은 여기로 지금 여기에 지금 어머니 연락처로 되어있는 것 같거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038474/0001.wav
+Reference: 네. 잠시만요.
+Prediction: 네 잠시만요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023532/0025.wav
+Reference: 알겠습니다 회원님 전달 도와드릴게요.
+Prediction: 알겠습니다 회원님 전달 도와드릴게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038404/0009.wav
+Reference: 아 네. 그러면 저희가 다시 혹시 저희 측으로 반송을 따로 해주시긴 좀 어려우신 거죠? 후불로 해주시긴
+Prediction: 아 네 그러면 저희가 다시 혹시 저희 측으로 반송을 따로 해주시긴 좀 어려우신 거죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023537/0011.wav
+Reference: 네 그래서 그 부분은 참고해주신 감사하겠고요. 어 그러시고 강의 같은 경우는 수강 완료하면은 이전에 프리패스에 등록하셨던 스 패스 강좌들은 이제.
+Prediction: 네 그래서 그 부분 참고해 주시면 감사하겠고요 어 그러시고 같은 경우 수강 완료하면은 이전에 프리패스 등록하셨던 패스 강좌들 이제
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023560/0015.wav
+Reference: 아 그러면은 제 아이 걸로 회원가입을 하지 말고 다른 아이 걸로 회원가입을 하나 더 하라는 말씀이신 거죠?
+Prediction: 아 그러면은 제 아이 껄로 회원 가입을 하지 말고 다른 아이 껄로 회원 가입을 하나 더 한 얘기란 말씀이신 거죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038550/0003.wav
+Reference: 네 잠시만 기다려주세요.
+Prediction: 네 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038600/0019.wav
+Reference: 그러면 이거 까 이게 지금 얘기하시는 게 이게 지금 반송하는 요기 짐.
+Prediction: 그러면 이거 이게 지금 얘기하신 게 지금 반송하는 여기 지금
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038678/0015.wav
+Reference: 네 네 네 네 네.
+Prediction: 네네 네네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023510/0013.wav
+Reference: 네 사진만 보내 주시고 제게 말씀해 주세요.
+Prediction: 네 하지만 보내 주시고 말씀해 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023529/0023.wav
+Reference: 문자 보내드릴게요.
+Prediction: 문자 보내드릴게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038445/0009.wav
+Reference: 어머니 저희가 교재는 사용하시는 거죠. 집에서.
+Prediction: 어머니 저희가 교재는 사용하시는 거죠 집에서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023494/0002.wav
+Reference: 그거 오나 봤는데 그 기사님한텐 전화했더니 택배가 왔다 그러고
+Prediction: 그거 봤는데 그 기사님한테 전화했더니 택배가 왔다고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023521/0036.wav
+Reference: 예 알겠습니다. 그럼 일단 접수는 된 거죠.
+Prediction: 예 알겠습니다 그럼 일단 접수는 된 거죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023509/0019.wav
+Reference: 네 그래서 저희 쪽에서는 일단 캐쉬 환불로만 이제 안내를 해드려야 될 것 같은데.
+Prediction: 그래서 저희 쪽에서는 일단 캐시 환불로만 이제 안내를 해드려야 될 것 같은데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023530/0015.wav
+Reference: 다른 문의사항 있으실까요?
+Prediction: 다른 문의사항 있으실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038533/0011.wav
+Reference: 네 회원님 그 기출 미트
+Prediction: 회원님 그 기출 미트
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023443/0005.wav
+Reference: 안 될 수도 있어요.
+Prediction: 안될 수도 있어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023467/0011.wav
+Reference: 모의고사면 당연히 수능 때 아니예요?
+Prediction: 모의고사면 다시 아니네요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023568/0015.wav
+Reference: 배송은 집으로 했어요.
+Prediction: 배송은 집으로 했어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038535/0001.wav
+Reference: 결제를 잘못해가지고 취소하려고 하는데 취소 버튼이 없어서요.
+Prediction: 결제를 잘못해 가지고 취소하려고 하는데 취소 버튼이 없어서요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038505/0011.wav
+Reference: 아 그러면 혹시 그 주말에도 계속 이렇게 하시는 건가요? 아니면 평일에도
+Prediction: 아 그러면은 지금 주말에도 계속하시는 건가요 아니면 평일도 뭐
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023448/0002.wav
+Reference: 네 학생분 성함이 어떻게 되실까요?
+Prediction: 네 학생분 성함이 어떻게 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023534/0010.wav
+Reference: 그때는 확실하게 알 수 있는 거죠?
+Prediction: 그때는 확실하게 알 수 있는거죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038551/0007.wav
+Reference: 네 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023576/0002.wav
+Reference: 네 그러시면 정확한 안내를 돕기 위해서.
+Prediction: 네 그러시면 정확한 안내를 돕기 위해서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038544/0013.wav
+Reference: 다른 문의사항 있으세요?
+Prediction: 다른 문의사항 있으세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023441/0023.wav
+Reference: 네 아니요. 핸드폰으로 말고 그 로그인하시면 알람 알림창 있으시죠?
+Prediction: 네 아니요 핸드폰으로 말고 그 로그인하시면 알림에 알림창 있으시죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023441/0009.wav
+Reference: 아 그러실까요? 그러면 환불 안내.
+Prediction: 아 그러실까요 그럼 환불 안내
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023489/0089.wav
+Reference: 뭐 경비실이나 따로 이렇게 맡겨 놓으시는 데에 납둬 주시면 되는데요.
+Prediction: 어 경비실은 따로 이렇게 맡겨놓으실 있는데 낮춰주시면 되는데요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038615/0020.wav
+Reference: 예 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023471/0006.wav
+Reference: 어 네 제가 몇 가지 확인해야 될 게 있어서 잠시만 기다려 주세요.
+Prediction: 제가 몇 가지 확인하고 싶어서요 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038687/0033.wav
+Reference: 네 알겠습니다. 수고하세요.
+Prediction: 네 알겠습니다 수고하세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023573/0006.wav
+Reference: 아 아 네 알겠습니다.
+Prediction: 아 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023457/0006.wav
+Reference: 아 여기 필요가 없어져서.
+Prediction: 아역이 필요 없어져서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038586/0006.wav
+Reference: 아 그면 다음에 사용 가능한가요?
+Prediction: 아 그럼 다음에 사용 가능한가요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023424/0025.wav
+Reference: 상태긴 해서.
+Prediction: 선택을 해서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023512/0024.wav
+Reference: 뭐 가능하시면은 뭐 오늘 중으로 이제 선택하시는 것도 좋은 방법이기도 하고요.
+Prediction: 뭐 가능하시면은 오늘 중으로 이제 선택하시는 것도 좋은 방법이기도 하고요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038439/0015.wav
+Reference: 음 마이 페이지는 들어왔는데
+Prediction: 음 마이 페이지 들어왔는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038359/0041.wav
+Reference: 최종 결제 금액 말고요. 거기에 재결제라는 버튼은 안 보이실까요?
+Prediction: 최종 결제 금액 말고요 거기에 재결제라는 버튼 안 보이실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023467/0009.wav
+Reference: 아 수능 전에 받아보시려는 거세요?
+Prediction: 아 수능 전에 받아보시는 거세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038538/0010.wav
+Reference: 네. 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038354/0012.wav
+Reference: 네네 네. 잠시만 기다려주시겠어요?
+Prediction: 네 네 잠시만 기다려 주시겠어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023593/0011.wav
+Reference: 재발송밖에 방법이 없으십니다.
+Prediction: 재발송 밖에 방법이 없으십니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038440/0026.wav
+Reference: 아니 교체도 안 된다는 게 난 말이 안 되네.
+Prediction: 아니 교체도 안된다는게 말이 안 되네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038340/0017.wav
+Reference: 아 보내셨을까요? 잠시만 기다려 주시겠어요? 아 네 기존에 그 강좌랑 교재 이제 그 환불 요청하셨던 걸까요?
+Prediction: 아 보내셨을까요 네 잠시만 기다려 주시겠어요 아 네 기존에 그 강좌랑 교재 이제 그 환불 요청하셨던 걸까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023495/0014.wav
+Reference: 그 알림 받으시고 캐시 확인해 보시면 캐시로 환불될 예정입니다.
+Prediction: 그 알림 받으시고 캐시 확인해 보시면 캐시로 환불될 예정입니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038385/0021.wav
+Reference: 네. 알겠습니다.
+Prediction: 네 알겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023498/0003.wav
+Reference: 어 잠시만 해당 부분 확인하고 다시 안내 도와드리겠습니다.
+Prediction: 일단 해당 부분 확인하고 다시 안내 도와드리겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038419/0020.wav
+Reference: 네 감사합니다 네.
+Prediction: 예 감사합니다 네
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038333/0005.wav
+Reference: 선생님 굿즈 당첨되셔가지고요 어제 지금 발송되신 걸로 확인이 되세요. 네. 잠시만 기다려주세요.
+Prediction: 선생님 굿 즈 당첨되셔 가지고요 어제 지금 발송되신 걸로 확인이 되세요 네 잠시만 기다려 주세요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038496/0037.wav
+Reference: 소멸이 된다는 게 아니고 이제 다시 이게 캐시로 이제 돌아오신다는 말씀을 드리는 거예요. 그래서 캐시를 이 그대로 그러니까 사용하기 이전으로 이제 돌려놓는다는 그걸 말씀을 드리는 거거든요.
+Prediction: 소멸이 된다는 게 아니고 이제 다시 이제 캐시로 이제 돌아오신다는 말씀을 드리는 거예요 그래서 캐시를 그대로 사용하기 이전으로 되돌려 놓는다는 그 걸 말씀을 드리는거거든요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038427/0015.wav
+Reference: 일단은 이제 회원님께서 새 교재를 받으시면 예 랩핑 뜯지 마시고 저희한테 보내주시면 돼요
+Prediction: 네 회원님께서 교재 받으시면
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038556/0005.wav
+Reference: 너무 좀 홧김에 산 거 같아서 조금 조금 홧김에 산 거 같아서.
+Prediction: 너무 조금 끼면서 한 거 같아서 조금 확인을 한거 같아서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038413/0024.wav
+Reference: 아 되셨나요? 잠시만요. 아 구매 진행되셨어요. 그
+Prediction: 아 되셨나요 잠시만요 예 네 구매 진행하셨어요 그
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023482/0019.wav
+Reference: 네 네 저녁 12시까지 하고 있어요.
+Prediction: 네네 저녁 12시까지 하고 있어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023511/0009.wav
+Reference: 저희가 인제 맞교환 진행해 드릴거고요. 아까 안내 받으셨던 대로.
+Prediction: 저희가 이제 맞교환 진행해드릴 거고요 아까 안내 받으셨던 대로
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023573/0004.wav
+Reference: 그 그분께 서 다시 문의주셔야 될 것 같예요.
+Prediction: 그 그 분께서 다시 문의 주셔야 될 것 같아요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023469/0050.wav
+Reference: 어디인지 말씀하 해주면 안 돼요?
+Prediction: 어딘지 말씀하시면 안 돼요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023556/0004.wav
+Reference: 되는 교재가 따로 있고 아.
+Prediction: 개념 교재가 따로 있고 아
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038377/0021.wav
+Reference: 네. 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023512/0025.wav
+Reference: 만약에 내일 발송돼 버리면 이 쪼끔 뭐 반송하고 막 그런 절차들이 쫌 복잡하다 보니까.
+Prediction: 안에 발송돼 버리면 그
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038674/0008.wav
+Reference: 회원님 아버님 되실까요?
+Prediction: 회원님 아버님 되실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038445/0001.wav
+Reference: 아 예 제가 상담을 한 번 받고 방금 상담을 받고.
+Prediction: 아예 상담을 한번 받고 상담을 받고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023579/0014.wav
+Reference: 음 잠시만요 그럼 현재 부모님은 이 상황에 대해서 모르시니까 내용 전달해도 좀 회수 진행은 어려우실까요?
+Prediction: 음 잠시만요 그럼 현재 부모님은 이 상황에 대해서 모르시니가 내용 전달 해도 좀 회수 진행은 어려우실까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038524/0005.wav
+Reference: 네 감사합니다.
+Prediction: 네 감사합니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038402/0013.wav
+Reference: 네. 로그인돼 있죠.
+Prediction: 네 로그인돼 있죠
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023436/0015.wav
+Reference: 아 지금 우체국을 통해서 이제.
+Prediction: 어 지금 우체국을 통해서 이제
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023489/0093.wav
+Reference: 집 그니까 현관 문 앞에 납두세요. 원래?
+Prediction: 집 현관문 앞에 놔두세요 원래
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023536/0010.wav
+Reference: 중복인 건은 저희가 담당부서 측에서.
+Prediction: 반복인 거는 저희가 담당 부서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038692/0020.wav
+Reference: 아 그래요? 그럼 취소만 하시 해 주면.
+Prediction: 아 그래요 그럼 취소만 하시는
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038663/0008.wav
+Reference: 취소 처리해 드리겠습니다.
+Prediction: 취소 처리해 드리겠습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038414/0001.wav
+Reference: 네 말씀하세요. 어 아니에요. 그 책을 구입을 해야 된다고 하거든요? 그리고 지금 구입은 되는 거구요?
+Prediction: 네 말씀하세요 아니요 그 책을 구입을 해야 된다고 하거든요 그리고 구입은 되는거구요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023494/0016.wav
+Reference: 네 네 우선은 회원님 찾아 보시고요. 만약에 분실하신 경우시면 저희 쪽으로 재문의 한번만 부탁 좀 드릴게요.
+Prediction: 네 네 우선 회원님 찾아보시구요 만약에 분실하신 경우시면 저희 쪽으로 재문의 한번만 부탁 좀 드릴게요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038410/0027.wav
+Reference: 혹시 그거 이거를 책을 반품하면서
+Prediction: 혹시 그거 이거를 책을 반품하면서
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038666/0002.wav
+Reference: 네 이전에 문의주신 내용 확인되어서 연락 는데.
+Prediction: 네 이전에 문의 주신 내용 확인되어서 연락드렸는데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023528/0029.wav
+Reference: 저 문자도 못 봐가지고 어 아니면 그냥.
+Prediction: 문자도 못 가지고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038542/0012.wav
+Reference: 아니요. 없어요.
+Prediction: 아니요 없어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023564/0021.wav
+Reference: 퀵이라는게 말 그대로 오토바인데.
+Prediction: 기기라는 게 말 그대로 오토바이인데
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038494/0023.wav
+Reference: 네. 그래서 웬만하면은 받고 나서 최대한 빨리 저희 쪽에 반송해 주시면 되시고요.
+Prediction: 네 그래서 웬만하면 받고 나서 최대한 빨리 저희 쪽에 반송해 주시면 되시구요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023514/0011.wav
+Reference: 해당 부서 쪽에.
+Prediction: 해당 부서 쪽에
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038503/0012.wav
+Reference: 문학이요?
+Prediction: 문학이요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038382/0003.wav
+Reference: 아 네 맞습니다.
+Prediction: 아 네 맞습니다
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023433/0004.wav
+Reference: 혹시 교재 수강 신청하셨나요? 강의?
+Prediction: 그래도 수강 신청하셨나요 강의
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038444/0009.wav
+Reference: 아버님 저희 입금 대기 건 삭제 해드렸고요. 다 되셨어요.
+Prediction: 아버님께서 입금 대기 건 삭제 해드렸구요 예 닫으셨어요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J19/S038410/0028.wav
+Reference: 제가 그 저번 주에 샀던 교재가 있는데 제가 그 타 강의를 수강하게 되면서 이케 근데 크게 그 필요가 없어서 혹시 같이 반품 진행해도 괜찮을까요?
+Prediction: 제가 그 저번 주에 샀던 교재가 있는데 네 네 제가 그 타 강의를 수강하게 되면서 네 그게 그 필요가 없어요 혹시 같이 반품 진행해도 괜찮을까요
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023585/0016.wav
+Reference: 특강 국어 문학하고.
+Prediction: 특강 국어 문학하고
+
+/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech/01.데이터/2.Validation/원천데이터/D04/J18/S023422/0046.wav

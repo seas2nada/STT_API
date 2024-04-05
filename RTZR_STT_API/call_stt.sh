@@ -1,0 +1,1 @@
+python call_stt.py --token $TOKEN

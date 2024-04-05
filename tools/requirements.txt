@@ -1,0 +1,4 @@
+wave
+websockets
+aiofile
+jiwer

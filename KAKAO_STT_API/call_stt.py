@@ -22,8 +22,12 @@ pattern = r'value":"(.*?)"'
 
 # usage: export PYTHONPATH=$PWD:$PYTHONPATH; python KAKAO_STT_API/call_stt.py --log_file_name KAKAO_STT_API/log.txt
 
-BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech"
-TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TELEPHONE_LOW_QUALITY_test.txt"
+BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KconfSpeech"
+TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_CONFERENCE_CALL_test.txt"
+# BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KtelSpeech"
+# TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_COUNSELING_test.txt"
+# BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech"
+# TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TELEPHONE_LOW_QUALITY_test.txt"
 # BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlecSpeech"
 # TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_KOREAN_LECTURE_test.txt"
 
@@ -63,12 +67,13 @@ class WebSocketClient():
                 message = await connection.recv()
                 if message is not None:
                     match = re.search(pattern, message)
-                    hyp = match.group(1).strip()
-                    
-                    log_file.write(f"{file}\n")
-                    log_file.write(f"Reference: {ref}\n")
-                    log_file.write(f"Prediction: {hyp}\n")
-                    log_file.write("\n")
+                    if match is not None:
+                        hyp = match.group(1).strip()
+                        
+                        log_file.write(f"{file}\n")
+                        log_file.write(f"Reference: {ref}\n")
+                        log_file.write(f"Prediction: {hyp}\n")
+                        log_file.write("\n")
 
             except websockets.exceptions.ConnectionClosed as e:
                 print('Connection with server closed')

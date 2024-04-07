@@ -11,8 +11,12 @@ from tools.kospeech.dataset.kspon.preprocess.preprocess import sentence_filter
 
 # usage: export PYTHONPATH=$PWD:$PYTHONPATH; python RTZR_STT_API/call_stt.py --log_file_name 'log.txt'
 
-BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech"
-TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TELEPHONE_LOW_QUALITY_test.txt"
+BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KtelSpeech"
+TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_COUNSELING_test.txt"
+# BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech"
+# TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TELEPHONE_LOW_QUALITY_test.txt"
+# BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlecSpeech"
+# TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_KOREAN_LECTURE_test.txt"
 YOUR_CLIENT_ID="HQdMG1JusSjxwZH_0mGh"
 YOUR_CLIENT_SECRET="4lyLfZUM7Q40h4BELnc1HCQ62y-2T3WxxbYSJmf4"
 
@@ -36,7 +40,7 @@ resp = requests.post(
 resp.raise_for_status()
 token = resp.json()['access_token']
 
-config = {"use_itn": "false", "use_disfluency_filter": "false", "use_profanity_filter": "false"}
+config = {"use_itn": False, "use_disfluency_filter": False, "use_profanity_filter": False}
 
 wrongs = 0
 lengths = 0

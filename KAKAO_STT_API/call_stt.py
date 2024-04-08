@@ -22,8 +22,10 @@ pattern = r'value":"(.*?)"'
 
 # usage: export PYTHONPATH=$PWD:$PYTHONPATH; python KAKAO_STT_API/call_stt.py --log_file_name KAKAO_STT_API/log.txt
 
-BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KconfSpeech"
-TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_CONFERENCE_CALL_test.txt"
+BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/tvpro_sample"
+TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TVPRO_test.txt"
+# BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KconfSpeech"
+# TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_CONFERENCE_CALL_test.txt"
 # BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KtelSpeech"
 # TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_COUNSELING_test.txt"
 # BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech"

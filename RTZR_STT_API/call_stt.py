@@ -11,8 +11,12 @@ from tools.kospeech.dataset.kspon.preprocess.preprocess import sentence_filter
 
 # usage: export PYTHONPATH=$PWD:$PYTHONPATH; python RTZR_STT_API/call_stt.py --log_file_name 'log.txt'
 
-BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KtelSpeech"
-TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_COUNSELING_test.txt"
+BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/tvpro_sample"
+TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TVPRO_test.txt"
+# BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KconfSpeech"
+# TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_CONFERENCE_CALL_test.txt"
+# BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KtelSpeech"
+# TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_COUNSELING_test.txt"
 # BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech"
 # TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TELEPHONE_LOW_QUALITY_test.txt"
 # BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlecSpeech"

@@ -1,9 +1,10 @@
+soundfile
+ffmpeg
 wave
 websockets
 aiofile
 jiwer
-<<<<<<< HEAD
+torchaudio
+numpy
 google-api-python-client
 google-cloud-speech
-=======
->>>>>>> 460a0d98bcdd7219c8eb5415fddd9db52d504b33

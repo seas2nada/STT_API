@@ -1,3 +1,4 @@
+import torchaudio
 import json
 import requests
 import argparse
@@ -11,10 +12,10 @@ from tools.kospeech.dataset.kspon.preprocess.preprocess import sentence_filter
 
 # usage: export PYTHONPATH=$PWD:$PYTHONPATH; python RTZR_STT_API/call_stt.py --log_file_name 'log.txt'
 
-BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/tvpro_sample"
-TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TVPRO_test.txt"
-# BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KconfSpeech"
-# TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_CONFERENCE_CALL_test.txt"
+# BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/tvpro_sample"
+# TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TVPRO_test.txt"
+BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KconfSpeech"
+TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_CONFERENCE_CALL_test.txt"
 # BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KtelSpeech"
 # TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_COUNSELING_test.txt"
 # BASE="/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlowtelSpeech"
@@ -23,6 +24,13 @@ TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_TVPRO_test.txt"
 # TEST="/home/ubuntu/Workspace/gradio_asr/datas/AIHUB_KOREAN_LECTURE_test.txt"
 YOUR_CLIENT_ID="HQdMG1JusSjxwZH_0mGh"
 YOUR_CLIENT_SECRET="4lyLfZUM7Q40h4BELnc1HCQ62y-2T3WxxbYSJmf4"
+
+import time
+
+def get_audio_duration_torchaudio(filepath):
+    audio_tensor, sample_rate = torchaudio.load(filepath)
+    duration = audio_tensor.shape[1] / sample_rate
+    return duration
 
 def calculate_cer(ref, hyp):
     cer = jiwer.cer(ref, hyp)
@@ -48,11 +56,15 @@ config = {"use_itn": False, "use_disfluency_filter": False, "use_profanity_filte
 
 wrongs = 0
 lengths = 0
+transcription_decoding_times = 0
+durations = 0
+words = 0
 with open(args.log_file_name, 'w') as log_file:
     for file in tqdm(open(TEST, 'r').readlines()):
     # for file in ["/home/ubuntu/Workspace/DB/korean_db/korean_asr_db/KlecSpeech/Validation/D99/G02/S000014/000051.wav"]:
         file = os.path.join(BASE, file.strip('\n'))
-
+        
+        start_time = time.perf_counter()
         resp = requests.post(
             'https://openapi.vito.ai/v1/transcribe',
             headers={'Authorization': 'bearer ' + f'{token}'},
@@ -78,6 +90,8 @@ with open(args.log_file_name, 'w') as log_file:
             segments.append(utt['msg'])
         hyp = " ".join(segments)
 
+        end_time = time.perf_counter()
+
         tname = file.replace(".wav", ".txt")
         if "원천데이터" in file:
             tname = tname.replace("원천데이터", "라벨링데이터")
@@ -94,11 +108,11 @@ with open(args.log_file_name, 'w') as log_file:
         if spell_cer < phone_cer:
             wrong = wrong_spell
             length = length_spell
-            # ref = ref_spell
+            ref = ref_spell
         else:
             wrong = wrong_phone
             length = length_phone
-            # ref = ref_phone
+            ref = ref_phone
 
         wrongs += wrong
         lengths += length
@@ -107,6 +121,13 @@ with open(args.log_file_name, 'w') as log_file:
         log_file.write(f"Reference: {ref}\n")
         log_file.write(f"Prediction: {hyp}\n")
         log_file.write("\n")
+        
+        transcription_decoding_time = end_time - start_time
+        transcription_decoding_times += transcription_decoding_time
+        duration = get_audio_duration_torchaudio(file)
+        durations += duration
+        words += len(ref.split())
     
 cer = wrongs / lengths
 print(cer)
+
